@@ -6,12 +6,12 @@ void main() => runApp(MyApp());
 
 Future<String> loadProvince() async {
   return await rootBundle
-      .loadString('assets/forecast-Jan-May-provincial.csv');
+      .loadString('assets/forecast-Jun-Oct-provincial.csv');
 }
 
 Future<String> loadMunicipal() async {
   return await rootBundle
-      .loadString('assets/forecast-Jan-May-municipal.csv');
+      .loadString('assets/forecast-Jun-Oct-municipal.csv');
 }
 
 /** MODAL **/
@@ -40,7 +40,6 @@ void showModal(BuildContext context) {
         ),
         //Modal Title
         Container(
-          padding: EdgeInsets.only(bottom:15.0),
           child: Text(
             'Rainfall Outlook',
             style: TextStyle(fontSize: 22, fontWeight:FontWeight.w600),
@@ -570,7 +569,6 @@ class _MyHomePageState extends State<MyHomePage>{
                                       ),
                                       Container(
                                           padding: const EdgeInsets.fromLTRB(8.0, 0.0, 8.0, 0.0),
-                                          height:17,
                                           child: Center(child: Text(monthsYearList.getRange(),style: TextStyle(fontSize: 16,fontWeight: FontWeight.w300)))
                                       ),
                                       Container(

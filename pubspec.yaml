@@ -45,8 +45,8 @@ flutter:
   assets:
     - assets/dost-pcaarrd-uplb.png
     - assets/sarai_logo.png
-    - assets/forecast-Jan-May-provincial.csv
-    - assets/forecast-Jan-May-municipal.csv
+    - assets/forecast-Jun-Oct-provincial.csv
+    - assets/forecast-Jun-Oct-municipal.csv
   #  - images/a_dot_burr.jpeg
   #  - images/a_dot_ham.jpeg
 

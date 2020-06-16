@@ -1,0 +1,1647 @@
+Province,Municipality,Feb,Mar,Apr,May,Jun
+Abra,Bangued,17.04,28.59,68.58,275.81,420.01
+Abra,Boliney,48.43,79.2,128.92,292.22,395.06
+Abra,Bucay,19.08,36.63,88.31,295.69,427.86
+Abra,Bucloc,32.49,60.05,106.65,282.09,406.01
+Abra,Daguioman,59.59,91.2,142.88,294.98,383.74
+Abra,Danglas,31.13,45.38,90.01,278.74,413.15
+Abra,Dolores,17.68,32.95,85.52,296.74,420.28
+Abra,La Paz,16.02,27.7,71.44,283.88,413.61
+Abra,Lacub,67.82,90.74,138.54,277.14,359.97
+Abra,Lagangilang,21.75,41.4,97.17,293.96,410.47
+Abra,Lagayan,34.36,50.31,97.77,276.68,394.7
+Abra,Langiden,15.98,25.48,59.99,264.45,417.44
+Abra,Licuan-Baay,41.96,69,119.31,285.32,395.8
+Abra,Luba,24.51,44.86,84.28,272.92,412.56
+Abra,Malibcong,72.99,101.14,150.38,285.76,356.23
+Abra,Manabo,20.68,38.79,81.38,276.42,415.84
+Abra,Peñarrubia,18.37,34.81,80.51,285.42,420.55
+Abra,Pidigan,13.96,23.99,58.89,265.02,415.37
+Abra,Pilar,16.86,30.7,64.44,265.24,419.91
+Abra,Sallapadan,24.84,48.37,97.5,283.4,409.66
+Abra,San Isidro,17.33,31.71,71.52,276.62,420.95
+Abra,San Juan,22.58,39.51,90.75,286.96,403.14
+Abra,San Quintin,11.93,19.18,47.3,248.09,404.73
+Abra,Tayum,16.22,30.13,79,293.34,427.5
+Abra,Tineg,67.63,82.43,128.56,267.2,358.65
+Abra,Tubo,46.3,77.54,128.4,287.77,380.46
+Abra,Villaviciosa,23.55,43.64,84.93,280.1,424.33
+Agusan del Norte,Buenavista,279.86,266.6,179.83,221.84,243.76
+Agusan del Norte,Butuan City,377.03,338.79,223.29,223.66,221.24
+Agusan del Norte,Cabadbaran City,419.3,369.45,250.9,249.85,240.15
+Agusan del Norte,Carmen,263.94,242.9,156.46,193.7,222.71
+Agusan del Norte,Jabonga,440.65,377.14,251.27,229.22,218.63
+Agusan del Norte,Kitcharao,466.53,393.05,261.37,226.81,212.9
+Agusan del Norte,Las Nieves,274.79,266.94,183.24,225.89,245.49
+Agusan del Norte,Magallanes,405.65,350.05,227.49,207.67,196.45
+Agusan del Norte,Mainit Lake,465.97,379.27,246.55,189.5,171.1
+Agusan del Norte,Nasipit,280.73,262.73,172.51,209.71,233.31
+Agusan del Norte,Remedios T. Romualdez,412.41,365.9,248.57,250.91,241.6
+Agusan del Norte,Santiago,417.82,367.38,250.42,251.25,244.28
+Agusan del Norte,Tubay,439.59,372.51,243,217.49,204.41
+Agusan del Sur,Bayugan City,403.35,371.97,251.25,251.2,244.29
+Agusan del Sur,Bunawan,386.43,341.47,265.67,248.72,242.02
+Agusan del Sur,Esperanza,284.84,279.92,194.58,231.8,245.48
+Agusan del Sur,La Paz,247.65,242.04,198.1,249.27,263.71
+Agusan del Sur,Loreto,226.96,215.8,195.95,243.9,257.38
+Agusan del Sur,Prosperidad,421.88,387.67,267.2,259.32,251.55
+Agusan del Sur,Rosario,418.29,371.81,275.66,253.52,254.57
+Agusan del Sur,San Francisco,396.45,362.46,261.52,248.11,249.36
+Agusan del Sur,San Luis,245.88,248.02,185.27,241.57,262
+Agusan del Sur,Santa Josefa,327.44,281.03,243.48,227.67,217.13
+Agusan del Sur,Sibagat,430.73,388.41,263.78,260.58,246.58
+Agusan del Sur,Talacogon,325.34,307.97,228.73,239.8,244.41
+Agusan del Sur,Trento,402.13,344.14,267.89,239.41,221.87
+Agusan del Sur,Veruela,246.7,216.65,203.54,237.16,238.55
+Aklan,Altavas,110.62,87.71,77.29,197.45,251.99
+Aklan,Balete,121.8,91.16,78.28,218.45,263.56
+Aklan,Banga,123.04,90.29,81.11,225.09,257.97
+Aklan,Batan,108.38,88.6,77.61,184.4,234.39
+Aklan,Buruanga,86.73,59.43,70.72,284.03,376.82
+Aklan,Ibajay,115.16,81.87,81.33,269.55,313.19
+Aklan,Kalibo,104.97,82.53,83.87,199.62,218.7
+Aklan,Lezo,115.32,84.76,84.34,221.18,240.1
+Aklan,Libacao,96.26,74.47,75,251.43,335.28
+Aklan,Madalag,86.43,70.75,76.86,265.92,364.57
+Aklan,Makato,114.96,83.37,83.7,239.18,269.54
+Aklan,Malay,85.32,58.88,71.31,272.57,356.43
+Aklan,Malinao,103.59,77.85,79.27,259.34,326.49
+Aklan,Nabas,99.54,68.59,76.1,276.37,348.81
+Aklan,New Washington,112.26,88.52,81.11,195.99,223.3
+Aklan,Numancia,105.45,80.62,84.7,208.93,223.79
+Aklan,Tangalan,111,81.8,82.35,248.79,288.53
+Albay,Bacacay,235.91,211.92,178.81,189.92,243.56
+Albay,Bato Lake,100.9,95.2,90.95,147.1,220.14
+Albay,Camalig,173.91,161.86,138.14,169.37,236.65
+Albay,Daraga,188.55,172.64,145.56,169.15,238.1
+Albay,Guinobatan,157.86,147.6,128.32,168.29,234.12
+Albay,Jovellar,158.29,145.65,123.89,155.33,226.02
+Albay,Legazpi City,203.18,183.37,153.1,171.68,236.93
+Albay,Libon,105.64,99.67,93.78,149.78,225.58
+Albay,Ligao City,139.62,130.45,115.73,162.01,229.87
+Albay,Malilipot,204.81,186.73,161.62,196.46,253.62
+Albay,Malinao,193.4,179.42,156.62,196.76,246.33
+Albay,Manito,214.93,190.18,156.85,174.96,224.69
+Albay,Oas,118.14,110.86,101.1,152.46,225.73
+Albay,Pio Duran,131.88,122.44,107.16,149.34,222.64
+Albay,Polangui,133.04,126.99,114.91,168.69,224.42
+Albay,Rapu-Rapu,235.86,206.28,171.24,180,226.54
+Albay,Santo Domingo,205.48,186.14,159.81,189.52,247.88
+Albay,Tabaco City,199.84,183.61,159.39,195.47,251.73
+Albay,Tiwi,169.45,159.24,144.14,195.86,242.11
+Antique,Anini-Y,17.8,24,47.06,188.16,365.76
+Antique,Barbaza,53.47,52.22,67.38,282.35,434.7
+Antique,Belison,26.53,25.7,42.75,224.67,396.54
+Antique,Bugasong,43.09,42.61,59.82,265.36,429.44
+Antique,Caluya,48.12,26.48,52.23,246.3,412.17
+Antique,Culasi,72.23,62.87,72.58,284.48,404.14
+Antique,Hamtic,22.55,25.79,45,204.22,377.1
+Antique,Laua-An,44.93,43.19,60.38,278.36,448.43
+Antique,Libertad,90.14,63.57,72.82,286.79,379.2
+Antique,Pandan,110.88,78.31,79.19,285.39,344.76
+Antique,Patnongon,29.81,29.31,47.48,241.32,418.45
+Antique,San Jose,23.61,22.34,37.92,207.12,372
+Antique,San Remigio,37.55,43.84,62.41,247.97,404.64
+Antique,Sebaste,98.8,73.7,75.75,284.35,363.36
+Antique,Sibalom,28.19,31.26,50.39,223.16,393.17
+Antique,Tibiao,58.83,50.82,63.85,287.39,435.69
+Antique,Tobias Fornier,19.36,24.48,46.38,195.58,374.6
+Antique,Valderrama,44.29,48.69,65.71,259.96,411.72
+Apayao,Calanasan,132.07,107.22,135.5,217.49,291.21
+Apayao,Conner,52.99,71.27,106.3,220.07,274.15
+Apayao,Flora,37.59,40.77,46.41,132.34,164.44
+Apayao,Kabugao,66.77,72.18,102.59,208.38,271.13
+Apayao,Luna,109.67,80.08,87.62,157.57,213.81
+Apayao,Pudtol,65.27,58.67,71.23,156.32,201.02
+Apayao,Santa Marcela,54.74,45.31,40.23,128.06,169.86
+Aurora,Baler,116.57,145.86,156.03,257.37,268.94
+Aurora,Casiguran,150.15,169.53,158.87,225.78,222.1
+Aurora,Dilasag,144.05,160.12,152.64,215.99,210.9
+Aurora,Dinalungan,133.64,156.34,161.3,233.59,215.85
+Aurora,Dingalan,56.32,76.86,100.66,227.94,294.14
+Aurora,Dipaculao,107.76,135.13,149.99,236.38,220.81
+Aurora,Maria Aurora,76.64,106.52,127.93,237.48,242.16
+Aurora,San Luis,76.73,108.42,131.46,244.56,264.43
+Basilan,Akbar,82.24,74.6,101.4,196.03,236.58
+Basilan,Al-Barka,90.41,85.27,116.3,233.68,261.9
+Basilan,Hadji Mohammad Ajul,81.73,76.12,103.72,196.18,237.02
+Basilan,Isabela City,83.18,74.86,102.84,208.97,247.7
+Basilan,Lamitan City,83.22,74.15,101.22,204.38,242.74
+Basilan,Lantawan,81.51,72.36,100.82,188.03,235.12
+Basilan,Maluso,87.81,76.67,104.52,192.75,240.12
+Basilan,Sumisip,91.44,84.04,114.8,226.09,256.6
+Basilan,Tipo-Tipo,89.3,82.04,110.86,220.83,252.85
+Basilan,Tuburan,84.08,77.01,104.62,203.03,240.9
+Basilan,Ungkaya Pukan,90.97,83.44,112.99,225.62,255.35
+Bataan,Abucay,10.69,13.8,33.04,216.91,394.62
+Bataan,Bagac,9.64,11.95,30.78,207.24,409.91
+Bataan,Balanga City,10.32,11.54,28.91,211.4,387.14
+Bataan,Dinalupihan,6.2,10.86,30.6,223.31,419.24
+Bataan,Hermosa,9.1,12.65,31.45,222.54,413.91
+Bataan,Limay,11.62,14.12,32.89,191.42,377.07
+Bataan,Mariveles,9.46,10.53,28.05,173.76,374.33
+Bataan,Morong,7.27,9.85,27.33,221.62,461.67
+Bataan,Orani,9.83,13.32,32.53,219.07,402.67
+Bataan,Orion,10.35,11.15,27.58,191.2,366.85
+Bataan,Pilar,10.19,11.29,28.21,202.45,377.72
+Bataan,Samal,10.47,14.23,33.83,219.07,396.06
+Batanes,Basco,164.06,111.66,91.26,171.22,205.83
+Batanes,Itbayat,151.63,104.64,89.98,170.52,216.49
+Batanes,Ivana,151.28,102.26,81.86,160.72,199.18
+Batanes,Mahatao,155.59,104.97,84.76,164.2,200
+Batanes,Sabtang,150.53,99.29,79.9,161.19,203.17
+Batanes,Uyugan,156.64,105.42,84.92,165.23,200.39
+Batangas,Agoncillo,15.82,17.91,35.88,142.17,233.65
+Batangas,Alitagtag,25.23,24.64,45.78,150.4,220.47
+Batangas,Balayan,14.76,12.91,33.33,150.42,269.47
+Batangas,Balete,21.25,26.68,42.3,144.94,225.7
+Batangas,Batangas City,34.01,31.28,54.18,139.27,199.33
+Batangas,Bauan,21.45,18.85,41.82,135.19,201.21
+Batangas,Calaca,16.59,17.38,36.95,156.97,261
+Batangas,Calatagan,13.17,10.37,32.47,145.18,256.71
+Batangas,Cuenca,28.68,30.01,49.33,157.51,229.56
+Batangas,Ibaan,29.89,28.85,50.04,139.04,200.88
+Batangas,Laurel,17.4,20.62,36.96,156.93,256.81
+Batangas,Lemery,17.49,19.09,38.19,153.55,246.45
+Batangas,Lian,12.54,9.6,29.56,144.2,277.2
+Batangas,Lipa City,34.46,36.2,54.12,159.08,229.34
+Batangas,Lobo,49.63,46.09,65.8,143.69,205.89
+Batangas,Mabini,23,20.14,44.01,136.48,203.55
+Batangas,Malvar,25.53,30.92,46.24,155.93,235.89
+Batangas,Mataas Na Kahoy,26.33,29.9,46.66,152.61,224.12
+Batangas,Nasugbu,12.59,12.2,29.88,148.94,294.69
+Batangas,Padre Garcia,35.95,35.34,53.57,140.75,206.03
+Batangas,Rosario,40.41,38.66,57.19,137.14,200.15
+Batangas,San Jose,28.96,29.5,49.36,150.96,220.45
+Batangas,San Juan,49.64,46.01,61.96,129.51,191
+Batangas,San Luis,21.41,19.7,41.74,141.27,213.33
+Batangas,San Nicolas,15.68,18.27,36.31,139.87,226.62
+Batangas,San Pascual,23.09,21.04,43.88,139.01,204.41
+Batangas,Santa Teresita,20.43,19.72,41.06,144.82,218.78
+Batangas,Santo Tomas,28.45,33.64,48.28,161.27,244.34
+Batangas,Taal,17.36,16.99,38.02,140.18,220.66
+Batangas,Taal lake,14.59,18.16,34.69,131.11,218.78
+Batangas,Talisay,16.69,22.49,36.6,151.17,243.31
+Batangas,Tanauan City,19.9,26.25,40.06,154.84,245.63
+Batangas,Taysan,40.72,38.69,58.85,140.41,201.49
+Batangas,Tingloy,25.68,22.79,47.83,138.18,207.39
+Batangas,Tuy,14.41,12.98,32.14,151.52,279.35
+Benguet,Atok,15.42,48.32,100,227.3,299.75
+Benguet,Baguio City,9.4,34.41,80.9,204.6,327.17
+Benguet,Bakun,25.11,62.7,122.12,252.45,324.58
+Benguet,Bokod,16.83,51.31,102.2,217.91,264.31
+Benguet,Buguias,36.66,76.09,140.75,280.77,304.36
+Benguet,Itogon,11.07,39.83,84.08,212.97,269.25
+Benguet,Kabayan,27.29,66.31,123.22,245.49,282.85
+Benguet,Kapangan,11.09,39.41,85.12,228.7,321.62
+Benguet,Kibungan,18.8,54.26,110.19,232.48,308.24
+Benguet,La Trinidad,9.81,36.05,82.77,212.91,320.85
+Benguet,Mankayan,28.45,69.38,125.18,244.55,302.42
+Benguet,Sablan,9.09,30.02,65.94,223.61,339.12
+Benguet,Tuba,9.27,31.86,72.27,215.79,315.92
+Benguet,Tublay,11.13,39.63,87.31,220.18,305.18
+Biliran,Almeria,144.77,116.01,111.31,158.28,222.04
+Biliran,Biliran,147.46,116.5,111.45,153.6,215.06
+Biliran,Cabucgayan,158.47,128.39,119.4,158.9,213.63
+Biliran,Caibiran,162.61,128.61,120.52,162.92,220.82
+Biliran,Culaba,163.83,132.36,122.51,170.48,228.53
+Biliran,Kawayan,142.18,111.96,109.89,153.11,217.94
+Biliran,Maripipi,137.46,109.02,106.29,148.22,209.55
+Biliran,Naval,142.85,111.93,109.19,152.76,216.65
+Bohol,Albuquerque,84.26,69.24,54.61,79.38,111.62
+Bohol,Alicia,125.28,104.02,61.11,119.07,174.37
+Bohol,Anda,133.81,121.76,66.71,120.81,157.56
+Bohol,Antequera,93.49,78.78,56.22,93.78,131.4
+Bohol,Baclayon,79.58,67.04,54.41,79.18,109.44
+Bohol,Balilihan,100.28,82.03,56.87,95.12,138.98
+Bohol,Batuan,116.69,98.43,61.16,114.28,167.15
+Bohol,Bien Unido,107.92,84.01,55.03,104.37,171.42
+Bohol,Bilar,112.44,100.81,62.72,118.33,167.28
+Bohol,Buenavista,114.56,85.27,55.47,103.25,174.67
+Bohol,Calape,99.23,83.88,56.24,100.78,142.81
+Bohol,Candijay,126.67,110.61,62.4,118.56,164.23
+Bohol,Carmen,124.07,102.75,62.73,119.07,177.27
+Bohol,Catigbian,110.55,91.5,58.75,107.87,157.99
+Bohol,Clarin,113.67,87.63,56.7,101.81,159.01
+Bohol,Corella,83.66,69.96,55.12,83.66,118.65
+Bohol,Cortes,82.64,68.19,54.58,81.73,115.99
+Bohol,Dagohoy,130.33,101.43,61.87,116.81,183.48
+Bohol,Danao,125.12,94.51,59.51,111.34,180.1
+Bohol,Dauis,67.15,57.35,53.12,72.48,98.32
+Bohol,Dimiao,111.31,95.83,60.86,108.39,155.2
+Bohol,Duero,136.69,124.17,73.71,138.61,188.12
+Bohol,Garcia Hernandez,122.88,110.14,65.58,122.04,170.33
+Bohol,Guindulman,131.45,114,64.8,121.84,169.74
+Bohol,Inabanga,114.7,83.45,54.75,96.95,163.28
+Bohol,Jagna,129.6,118.28,69.76,131.23,179.77
+Bohol,Jetafe,105.15,78.2,52.38,96.92,171.06
+Bohol,Lila,104.04,87.29,58.36,97.78,139.05
+Bohol,Loay,89.29,71.37,54.56,79.59,113.97
+Bohol,Loboc,99.79,84.66,58.45,98.47,138.71
+Bohol,Loon,90.17,80.37,56.36,98.35,132.11
+Bohol,Mabini,117.27,104.72,59.74,117.87,159.33
+Bohol,Maribojoc,86.8,75.69,56.02,91.43,123.82
+Bohol,Panglao,65.61,56.65,53.13,72.46,96.89
+Bohol,Pilar,130.7,107.38,63.59,121.49,180.74
+Bohol,Pres. Carlos P. Garcia,114.14,96.35,60.18,112.89,159.38
+Bohol,Sagbayan,116.33,94.65,59.51,113.13,170.59
+Bohol,San Isidro,103.07,87.71,57.66,105.23,149.6
+Bohol,San Miguel,123.46,95.22,59.01,113.62,180.72
+Bohol,Sevilla,100.83,82.92,57.29,94.89,138.69
+Bohol,Sierra Bullones,129.5,111.75,66.55,127.02,182.41
+Bohol,Sikatuna,91.72,76.71,56.46,89.87,128.32
+Bohol,Tagbilaran City,73.5,61.32,53.65,75.32,105.11
+Bohol,Talibon,109.61,82.62,54.52,103.7,178.06
+Bohol,Trinidad,116.56,89.14,56.85,109.47,179.61
+Bohol,Tubigon,107.53,85.86,56.07,99.87,150.02
+Bohol,Ubay,115.72,96.56,58.6,116.19,170.68
+Bohol,Valencia,117.52,104.11,63.83,117.6,167.54
+Bukidnon,Baungon,109.4,122.17,125.53,259.7,334.63
+Bukidnon,Cabanglasan,158,155.89,153.79,258.97,309.81
+Bukidnon,Damulog,105.43,104.8,130.65,259.56,274.31
+Bukidnon,Dangcagan,105.89,106.6,131.72,279.79,315.98
+Bukidnon,Don Carlos,102.66,106.45,126.88,285.16,338.32
+Bukidnon,Impasug-Ong,166.84,183.86,163.66,283.2,328.4
+Bukidnon,Kadingilan,109.78,111.35,137.63,277.01,304.6
+Bukidnon,Kalilangan,111.66,124.06,150.51,307.07,360.01
+Bukidnon,Kibawe,106.37,106.82,137.93,269.53,296.49
+Bukidnon,Kitaotao,110.88,110.88,136.45,273.02,304.49
+Bukidnon,Lantapan,129.33,145.19,159.32,293.54,338.34
+Bukidnon,Libona,98.06,113.95,111.79,256.53,343.94
+Bukidnon,Malaybalay City,144.01,158.91,154.48,271.69,318.31
+Bukidnon,Malitbog,128.65,141.83,121.01,239.07,310.7
+Bukidnon,Manolo Fortich,108.95,125.31,117.3,257.79,340.47
+Bukidnon,Maramag,103.67,111.68,129.56,282.03,345.42
+Bukidnon,Pangantucan,117.79,130.2,153.49,308.44,357.07
+Bukidnon,Quezon,120.29,126.86,145.31,287.48,311.07
+Bukidnon,San Fernando,152.13,148.53,159.16,272.19,295.18
+Bukidnon,Sumilao,127.88,151.75,148.26,291.45,352.81
+Bukidnon,Talakag,120.11,138.11,151.17,298.76,355.92
+Bukidnon,Valencia City,128.45,135.83,148.38,285.83,340.24
+Bulacan,Angat,15.7,25.43,52.89,213.65,381.81
+Bulacan,Balagtas,13.13,19.48,39.74,190.96,346.11
+Bulacan,Baliuag,10.88,19.92,43.95,200.83,346.56
+Bulacan,Bocaue,13.57,19.44,38.88,187.4,342.64
+Bulacan,Bulacan,11.67,16.94,34.67,176.09,321.54
+Bulacan,Bustos,12.65,21.63,45.52,205.41,362.49
+Bulacan,Calumpit,7.65,17.66,38.97,196.06,341.91
+Bulacan,Doña Remedios Trinidad,31.85,51.51,78.14,222.22,330.34
+Bulacan,Guiguinto,12.63,18.92,39.45,193.38,351.63
+Bulacan,Hagonoy,10.54,15.35,33.68,184.68,327.09
+Bulacan,Malolos City,11.28,17.42,37.02,188.31,339.89
+Bulacan,Marilao,15.17,21.15,40.69,189.63,350
+Bulacan,Meycauayan City,14.31,20.15,38.49,182.84,338.51
+Bulacan,Norzagaray,31.11,44.22,68.83,219.06,358.94
+Bulacan,Obando,11.54,16.81,33.11,167.69,311.61
+Bulacan,Pandi,15.94,22.79,46.19,204.89,367.01
+Bulacan,Paombong,10.51,16.09,34.44,181.56,323.59
+Bulacan,Plaridel,12.31,19.7,41.73,197.76,351.49
+Bulacan,Pulilan,8.74,18.17,40.98,199.92,349.01
+Bulacan,San Ildefonso,14.69,26.91,54.16,209.06,342.63
+Bulacan,San Jose del Monte City,21.75,30.74,53.43,208.74,375.49
+Bulacan,San Miguel,15.18,26.56,53.72,201.37,293.13
+Bulacan,San Rafael,15.91,24.59,49.97,207.5,353.33
+Bulacan,Santa Maria,16.41,23.33,45.47,201.08,365.01
+Cagayan,Abulug,74.03,55.18,45.47,131.15,177.04
+Cagayan,Alcala,13.78,23.74,23.9,102.04,107.15
+Cagayan,Allacapan,38.77,36.59,31.26,113.23,136.91
+Cagayan,Amulung,14.83,26.19,30.29,114.91,119.14
+Cagayan,Aparri,89.7,63.4,46.25,127.91,167.31
+Cagayan,Baggao,43.54,50.73,46.44,118.59,122.01
+Cagayan,Ballesteros,67.94,53.62,41.48,129.81,169.2
+Cagayan,Buguey,48.53,44.68,30.15,112.22,130.69
+Cagayan,Calayan,149.94,93.65,68.41,143.32,185.68
+Cagayan,Camalaniugan,48.89,43.95,30.56,116.5,138.32
+Cagayan,Claveria,127.2,79.11,77.92,140.34,212.89
+Cagayan,Enrile,19.7,32.41,47,133.69,141.13
+Cagayan,Gattaran,39.08,44.9,37.08,109.17,114.31
+Cagayan,Gonzaga,90.83,80.07,63.11,134.03,141.35
+Cagayan,Iguig,15.59,27.76,33.16,119.54,121.39
+Cagayan,Lal-Lo,58.02,54.88,45.22,119.23,129.75
+Cagayan,Lasam,16.52,25.38,26.62,103.59,118.16
+Cagayan,Pamplona,92.73,63.97,57.43,134.35,187.13
+Cagayan,Peñablanca,69.2,80.73,86.87,165,167.89
+Cagayan,Piat,13.96,26.18,42.65,138.66,154.83
+Cagayan,Rizal,20.94,35.1,57.1,158.47,191.95
+Cagayan,Sanchez-Mira,127.4,81.11,77.43,139.56,202.8
+Cagayan,Santa Ana,93.6,77.56,54.27,124.27,131.06
+Cagayan,Santa Praxedes,154.72,97.14,103.53,154.66,235.96
+Cagayan,Santa Teresita,50.82,47.42,32.74,111.17,127.38
+Cagayan,Santo Niño,24.49,35.55,47.71,132.46,155.2
+Cagayan,Solana,15.16,28.12,41.18,130.38,135.14
+Cagayan,Tuao,15.23,28.69,50.66,146.85,166.42
+Cagayan,Tuguegarao City,18.78,31.24,41.53,129.59,132.76
+Camarines Norte,Basud,143.87,121.65,118.62,167.06,242.25
+Camarines Norte,Capalonga,112.16,101.42,96.96,129.41,192.64
+Camarines Norte,Daet,171.54,143.6,133.41,172.14,235.52
+Camarines Norte,Jose Panganiban,132.55,116.93,109.92,142.52,203.4
+Camarines Norte,Labo,127.55,111.05,106.39,147.48,214.07
+Camarines Norte,Mercedes,139.03,119.49,117.72,165.87,242.7
+Camarines Norte,Paracale,150.13,131.25,121.84,154.04,211.69
+Camarines Norte,San Lorenzo Ruiz,138.65,116.55,113.96,164.1,237.08
+Camarines Norte,San Vicente,148.22,124.22,119.16,164.55,231.29
+Camarines Norte,Santa Elena,95.35,86.4,84.52,124.89,192.99
+Camarines Norte,Talisay,169.57,143.78,132.64,168.33,227.73
+Camarines Norte,Vinzons,166.42,144.19,131.85,162.66,218.38
+Camarines Sur,Baao,96.13,89.15,92.85,159.39,250.2
+Camarines Sur,Balatan,83.21,77.74,80.92,144.31,242.77
+Camarines Sur,Bato,90.84,86.02,85.31,146.39,231.19
+Camarines Sur,Bato Lake,96.45,90.32,88.45,146.17,221.98
+Camarines Sur,Bombon,89.54,77.98,89.37,154.85,290.24
+Camarines Sur,Buhi,133.73,128.02,118.6,176.26,228.83
+Camarines Sur,Buhi Lake,130.25,124.34,114.58,173.44,208.72
+Camarines Sur,Bula,80.95,72.97,80.76,147.39,264
+Camarines Sur,Cabusao,93.01,80.11,88.1,151.82,275.23
+Camarines Sur,Calabanga,106.78,96.63,103.68,167.97,279.96
+Camarines Sur,Camaligan,80.34,68.68,80.75,148.57,294.13
+Camarines Sur,Canaman,81.1,69.48,80.67,147.3,287.47
+Camarines Sur,Caramoan,189.85,173.27,161.7,195.09,244.6
+Camarines Sur,Del Gallego,104.39,93.19,93.57,149.64,228.67
+Camarines Sur,Gainza,77.52,66.22,77.91,144.67,286.94
+Camarines Sur,Garchitorena,173.94,156.36,149.03,192.48,247.47
+Camarines Sur,Goa,134.68,122.99,123.4,181.16,259.74
+Camarines Sur,Iriga City,111.02,105.66,102.58,166,232.44
+Camarines Sur,Lagonoy,154.49,138.6,135.84,185.63,251.95
+Camarines Sur,Libmanan,81.35,69.96,77.99,145.18,264.53
+Camarines Sur,Lupi,105.25,89.52,92.36,150.67,245.71
+Camarines Sur,Magarao,84.92,73.31,84.6,150.89,289.28
+Camarines Sur,Milaor,77.9,66.15,78.62,146.94,292.8
+Camarines Sur,Minalabac,75.74,66.14,77.2,145.25,281.11
+Camarines Sur,Nabua,92.09,85.3,86.58,151.23,240.92
+Camarines Sur,Naga City,94.02,83.63,94.38,163.74,295.06
+Camarines Sur,Ocampo,106.33,99.31,103.69,170.3,263.16
+Camarines Sur,Pamplona,75.01,63.81,74.54,143.52,278.65
+Camarines Sur,Pasacao,69.23,60.4,69.68,137.88,259.22
+Camarines Sur,Pili,87.3,76.89,88.91,158.22,293.86
+Camarines Sur,Presentacion,181.2,165.54,155.31,196.51,244.04
+Camarines Sur,Ragay,94.24,82.23,84.46,143.78,235.25
+Camarines Sur,Sagnay,136,127.59,122.44,180.79,237.8
+Camarines Sur,San Fernando,72.97,63.4,74.23,142.89,275.34
+Camarines Sur,San Jose,144.84,132.32,129.26,183.11,240.08
+Camarines Sur,Sipocot,99.52,85.6,90.56,150.81,257.11
+Camarines Sur,Siruma,155.59,135.19,131.76,174.53,247.11
+Camarines Sur,Tigaon,131.09,120.77,119.83,181.05,248.47
+Camarines Sur,Tinambac,139.06,122.11,123.32,174.05,258.9
+Camiguin,Catarman,158.51,148.72,85.18,147.6,203.11
+Camiguin,Guinsiliban,166.07,155.34,87.28,141.9,193.3
+Camiguin,Mahinog,173.9,163.97,95.82,159.25,210.29
+Camiguin,Mambajao,168.86,156.94,88.16,149.33,202.7
+Camiguin,Sagay,162.77,154.92,90.84,152.96,206.19
+Capiz,Cuartero,85,70.5,72.26,170.98,244.39
+Capiz,Dao,83.38,71.1,72.26,165.82,245.12
+Capiz,Dumalag,84.63,69.38,72.73,177.61,247.53
+Capiz,Dumarao,84.26,66.76,71.51,169.5,239.07
+Capiz,Ivisan,81.4,74.8,74.9,162.02,250.52
+Capiz,Jamindan,87.38,73.48,75.97,228.27,314.02
+Capiz,Ma-Ayon,87.98,76.22,73.31,177.99,253.34
+Capiz,Mambusao,91.84,76.39,74.58,176.39,248.32
+Capiz,Panay,74.52,76.94,72.41,159.28,252.48
+Capiz,Panitan,80.62,74.11,72.67,164.78,254.25
+Capiz,Pilar,98.08,92.92,74.35,196.79,262.22
+Capiz,Pontevedra,85.07,79.8,72.65,174.62,255.76
+Capiz,President Roxas,94.47,86.84,74.42,190.94,261.9
+Capiz,Roxas City,71.15,71.52,73.68,150.46,253.93
+Capiz,Sapi-An,90.07,77.73,75.08,169.7,243.75
+Capiz,Sigma,84.36,73.2,73.6,166.35,247.89
+Capiz,Tapaz,76.61,66.72,74.11,224.89,314.17
+Catanduanes,Bagamanoc,214.34,186.77,168.16,187.4,249.47
+Catanduanes,Baras,214.03,186,165.25,181.82,250.34
+Catanduanes,Bato,203.34,178.88,161.99,176.25,250.13
+Catanduanes,Caramoran,209.26,186.1,169.03,191.12,251.53
+Catanduanes,Gigmoto,219.91,190.05,168.54,186.71,249.42
+Catanduanes,Pandan,211.08,186.08,167.53,186.98,246.66
+Catanduanes,Panganiban,214.7,186.82,168.07,187.85,250.95
+Catanduanes,San Andres,203.46,183.37,168.78,191.04,254.1
+Catanduanes,San Miguel,214.17,188.14,168.29,189.22,255.25
+Catanduanes,Viga,214.83,185.75,167.09,185.39,250.6
+Catanduanes,Virac,201.78,180.74,165.96,184.5,256.77
+Cavite,Alfonso,22.84,25.94,43.89,187.44,290.76
+Cavite,Amadeo,22.54,27.77,42.09,186.4,284.12
+Cavite,Bacoor,10.79,13.57,23.62,138.36,264.71
+Cavite,Carmona,14.08,19.87,30.71,153.49,265.99
+Cavite,Cavite City,9.03,10.92,20.55,131.82,270.7
+Cavite,Dasmariñas,13.8,18.38,29.61,156.03,276.36
+Cavite,General Emilio Aguinaldo,14.81,17.03,32.19,160.43,285.45
+Cavite,General Mariano Alvarez,14.9,20.38,31.43,158.16,273.44
+Cavite,General Trias,11.95,14.88,26.41,147.52,275.87
+Cavite,Imus,10.3,12.88,23.25,137.98,268.2
+Cavite,Indang,18.51,22.98,37.3,175.71,283.81
+Cavite,Kawit,9,11.24,20.82,129.76,261.8
+Cavite,Magallanes,13.96,15.12,31.52,157.23,290.88
+Cavite,Maragondon,12.75,13.43,29.15,152.3,300.33
+Cavite,Mendez,24.78,29.14,46.68,192.58,292.8
+Cavite,Naic,10.64,11.67,24.91,137.45,284.43
+Cavite,Noveleta,9.45,11.17,21.38,133.21,272.23
+Cavite,Rosario,10.11,11,21.87,135.37,282.39
+Cavite,Silang,22.8,28.41,40.92,183.2,277.3
+Cavite,Tagaytay City,27.3,31.67,48.83,189.38,282.75
+Cavite,Tanza,10.34,11.56,23.7,137.42,280.08
+Cavite,Ternate,10.53,10.76,26.33,139.84,305.78
+Cavite,Trece Martires City,12.88,15.71,28.46,152.61,280.52
+Cebu,Alcantara,85.2,95.6,66.28,152.08,180.9
+Cebu,Alcoy,90,107.54,67.28,160.33,193.46
+Cebu,Alegria,89.9,108.81,69.6,168.69,201.52
+Cebu,Aloguinsan,88.18,85.85,58.75,134.65,164.95
+Cebu,Argao,88.89,99.3,63.41,145.14,174.15
+Cebu,Asturias,88.13,70.98,52.2,120.18,169.98
+Cebu,Badian,88.63,103.25,70.32,165.5,199.7
+Cebu,Balamban,90.67,77.29,55.4,127.98,176.84
+Cebu,Bantayan,85.32,66.82,64.37,136.11,196.56
+Cebu,Barili,88.5,92.36,62.04,145.15,171.99
+Cebu,Bogo City,69.38,52.26,62.09,117.42,196.27
+Cebu,Boljoon,85.22,101.48,65.84,148.22,176.68
+Cebu,Borbon,82.3,62.45,56.56,118.38,182.26
+Cebu,Carcar,88.04,86.43,57.58,128.35,161.81
+Cebu,Carmen,89.63,73.38,55.85,119.75,182.71
+Cebu,Catmon,88.22,71.81,56.29,120.26,181.71
+Cebu,Cebu City,89.67,78.42,56.1,125.01,187.31
+Cebu,Compostela,79.82,62.86,47.17,99.73,165.64
+Cebu,Consolacion,75.1,56.95,43.79,88.65,163.52
+Cebu,Cordoba,74.3,55.88,43.01,78.5,154.48
+Cebu,Daanbantayan,78.75,60.59,66.93,121.32,199.8
+Cebu,Dalaguete,91.92,106.3,67.25,159.84,193.49
+Cebu,Danao City,86.72,70.74,53.04,114.4,177.72
+Cebu,Danao Lake,105.47,73.78,66.05,110.59,184.74
+Cebu,Dumanjug,85.04,92.96,64.77,148.7,172.71
+Cebu,Ginatilan,82.22,96.93,68.63,150.28,181.7
+Cebu,Lapu-Lapu City,75.49,54.3,42.45,77.61,158.72
+Cebu,Liloan,76,58.32,44.45,90.12,160.58
+Cebu,Madridejos,86.12,68.95,66.17,137.24,197.99
+Cebu,Malabuyoc,84.67,101.15,68.38,153.23,182.52
+Cebu,Mandaue City,76.46,54.37,43.49,85.78,169.75
+Cebu,Medellin,77.19,57.37,66.27,121.9,196.5
+Cebu,Minglanilla,89.47,79.94,55.68,125.29,180.67
+Cebu,Moalboal,84.58,97.14,67.93,155.43,186.31
+Cebu,Naga City,88.6,79.91,54.71,122.46,170.25
+Cebu,Oslob,82.11,96.35,66.99,147.74,181.31
+Cebu,Pilar,139.9,103.29,92.73,127.98,188.92
+Cebu,Pinamungahan,87.49,79.7,55.62,125.75,161
+Cebu,Poro,119.61,86.08,75.78,120.9,193.72
+Cebu,Ronda,83.89,92.58,66.06,148.97,175.37
+Cebu,Samboan,79.16,89.28,68.04,140,172.09
+Cebu,San Fernando,88.1,82.99,55.73,123.74,163.13
+Cebu,San Francisco,106.04,74.31,65.12,110.6,184.78
+Cebu,San Remigio,77.84,54.64,58.22,115.82,185.24
+Cebu,Santa Fe,82.12,64.65,64.61,129.38,194.02
+Cebu,Santander,72.6,73.87,64.5,114.63,145.32
+Cebu,Sibonga,88.77,95.21,61.9,141.71,171.94
+Cebu,Sogod,84.31,65.45,54.73,117.68,177.55
+Cebu,Tabogon,79.2,57.09,59.32,117.25,188.69
+Cebu,Tabuelan,82,60.81,52.81,116.96,173.71
+Cebu,Talisay City,84.5,70.92,51.2,109.63,172.19
+Cebu,Toledo City,87.66,77.2,54.41,124.75,167.04
+Cebu,Tuburan,85.67,65.63,50.18,116.54,167.22
+Cebu,Tudela,125.65,91.39,79.83,122.73,193.87
+Compostela Valley,Compostela,329.95,281.4,227.7,232.63,181.88
+Compostela Valley,Laak,235.69,200.98,200.87,222.17,196.3
+Compostela Valley,Mabini,206.8,182.08,184.43,234.21,206.58
+Compostela Valley,Maco,227.21,189.79,190.65,226.28,187.51
+Compostela Valley,Maragusan,251.32,232.93,214.86,269.1,243.06
+Compostela Valley,Mawab,257.73,209.14,191.69,207.31,159.84
+Compostela Valley,Monkayo,324.03,281.13,236.18,230.63,188.64
+Compostela Valley,Montevista,293.88,250.58,212.48,217.21,158.41
+Compostela Valley,Nabunturan,278.64,236.52,204.38,221.46,167.25
+Compostela Valley,New Bataan,293.43,262.17,224.92,260.97,223.13
+Compostela Valley,Pantukan,201.06,181.48,184.58,235.09,220.28
+Davao del Norte,Asuncion,227.21,189.71,194.8,219.53,180.34
+Davao del Norte,Braulio E. Dujali,168.05,127.79,168.99,215.99,206.98
+Davao del Norte,Carmen,166.43,124.02,169.61,212.62,207.11
+Davao del Norte,Kapalong,183.85,164.51,171.63,241.4,238.41
+Davao del Norte,New Corella,237.52,194.51,191.86,215.08,168.78
+Davao del Norte,Panabo City,142.92,114.8,154.1,209.27,207.09
+Davao del Norte,Samal City,124.23,111.21,142.24,177.53,196.28
+Davao del Norte,San Isidro,192.99,169.38,178.29,228.09,202.25
+Davao del Norte,Santo Tomas,164.49,131.77,166.52,222.91,209.82
+Davao del Norte,Tagum City,199.28,145.82,183.49,217.86,197.38
+Davao del Norte,Talaingod,153.83,147.69,165.73,263.24,255.5
+Davao del Sur,Bansalan,102.63,101.29,140.47,235.12,227.54
+Davao del Sur,Davao City,120.62,116.15,153.14,251.47,244.85
+Davao del Sur,Digos City,106.3,105.43,140.98,224.5,220.87
+Davao del Sur,Don Marcelino,144.17,128.27,147.29,205.34,198.34
+Davao del Sur,Hagonoy,102.07,98.34,122.82,171.37,183.03
+Davao del Sur,Jose Abad Santos,133.4,119.1,135.81,184.16,179
+Davao del Sur,Kiblawan,96.61,92.42,117.14,174.98,181.37
+Davao del Sur,Magsaysay,90.47,89.77,116.2,195.3,187.26
+Davao del Sur,Malalag,101.51,95.63,123.05,177.92,173.31
+Davao del Sur,Malita,124.62,112.55,137.37,191.03,182.71
+Davao del Sur,Matanao,98.8,94.62,120.31,180.93,189.56
+Davao del Sur,Padada,102.08,98.01,121.8,167.82,176.41
+Davao del Sur,Santa Cruz,112.76,111.76,152.44,246.48,239.35
+Davao del Sur,Santa Maria,116.72,108.46,135.99,187.44,183.46
+Davao del Sur,Sarangani,128.75,116.8,125.85,155.64,164.31
+Davao del Sur,Sulop,101.6,97.13,121.04,166.88,172
+Davao Oriental,Baganga,346.62,289.24,229.05,227.96,195.27
+Davao Oriental,Banaybanay,197.15,181.12,177.64,219.56,219.46
+Davao Oriental,Boston,392.2,338,258.15,249.41,215.14
+Davao Oriental,Caraga,296.01,248.97,210.23,227.48,207.71
+Davao Oriental,Cateel,369.44,312.95,244.6,238.96,205.54
+Davao Oriental,Governor Generoso,164.98,141.69,148.39,153.9,317.73
+Davao Oriental,Lupon,196.18,164.48,161.71,194.48,224.92
+Davao Oriental,Manay,267.21,213.71,183.33,192.29,188.93
+Davao Oriental,Mati City,189.31,148.59,148.18,166.63,222.24
+Davao Oriental,San Isidro,167.16,137.91,145.26,157.66,276.54
+Davao Oriental,Tarragona,241.82,195.01,176.32,197.06,205.74
+Dinagat Islands,Basilisa,430.02,332.47,235.95,173.95,183.16
+Dinagat Islands,Cagdianao,464.43,362.13,255.82,184.62,187.77
+Dinagat Islands,Dinagat,453.63,351.25,246.92,168.05,173.37
+Dinagat Islands,Libjo,426.21,329.09,236.84,181.57,191.14
+Dinagat Islands,Loreto,424.14,328.9,242.72,197.73,204.59
+Dinagat Islands,San Jose,451.89,349.48,246.73,174.25,181.76
+Dinagat Islands,Tubajon,425.86,326.71,238.73,185.54,193.49
+Eastern Samar,Arteche,280.07,218.46,184.31,209.48,197.05
+Eastern Samar,Balangiga,337.98,250.3,207.93,206.3,226.2
+Eastern Samar,Balangkayan,359.04,251.37,215.34,222.06,234.13
+Eastern Samar,Borongan City,349.16,242.93,214.05,228.84,233.07
+Eastern Samar,Can-Avid,292.86,218.97,201.98,220.76,206.09
+Eastern Samar,Dolores,281.32,216.15,197.17,217.68,201.48
+Eastern Samar,General Macarthur,363.63,259.73,217.42,213.72,231.55
+Eastern Samar,Giporlos,351.36,258.75,212.97,201.63,220.08
+Eastern Samar,Guiuan,384.48,291.88,228.5,197.05,220.32
+Eastern Samar,Hernani,372.46,264.54,222.81,216.59,229.88
+Eastern Samar,Jipapad,287.91,217.18,169.79,202.48,205.94
+Eastern Samar,Lawaan,322.04,242.74,201.8,203.75,224.25
+Eastern Samar,Llorente,360.24,255.1,216.18,219.07,233.76
+Eastern Samar,Maslog,283.12,214.24,178.76,213.85,217.18
+Eastern Samar,Maydolong,353.03,245.39,212.36,221.04,232.4
+Eastern Samar,Mercedes,356.82,263.08,213.07,195.03,229.38
+Eastern Samar,Oras,274.83,218.02,197.61,216.56,195.03
+Eastern Samar,Quinapondan,353.62,258.38,213.95,208.42,229.52
+Eastern Samar,Salcedo,360.57,262.26,215.65,202,227.61
+Eastern Samar,San Julian,343.62,241.61,216.45,234.7,230.23
+Eastern Samar,San Policarpo,277.87,224.89,198.04,215.61,191.43
+Eastern Samar,Sulat,332.98,236.62,214.5,231.75,223.27
+Eastern Samar,Taft,313.86,226.7,208.2,226.23,214.96
+Guimaras,Buenavista,40.8,50.69,75.49,149.42,285.41
+Guimaras,Jordan,33.42,45.25,74.01,154.91,313.48
+Guimaras,Nueva Valencia,30.42,40.68,74.66,165,334.59
+Guimaras,San Lorenzo,38.75,48.81,78.3,162.57,311.95
+Guimaras,Sibunag,33.79,44.7,78,168.56,333.53
+Ifugao,Aguinaldo,82.63,88.07,125.32,223.82,246.06
+Ifugao,Alfonso Lista,57.77,55.15,82.26,162.07,189.98
+Ifugao,Asipulo,52.9,87.07,137.89,242.9,241.04
+Ifugao,Banaue,78.59,107.65,166.78,290.64,296.5
+Ifugao,Hingyon,79.24,105.89,154.71,277.47,286.86
+Ifugao,Hungduan,60.97,94.53,158.13,288.58,299.59
+Ifugao,Kiangan,64.45,89.37,135.54,246.59,251.46
+Ifugao,Lagawe,83.66,80.75,118.8,214.65,225.9
+Ifugao,Lamut,96.89,68.45,104.11,177.49,190.58
+Ifugao,Mayoyao,89.37,92.15,137.01,243.55,256.4
+Ifugao,Tinoc,42.1,81.24,140.31,257.69,275.1
+Ilocos Norte,Adams,150.38,104.51,123.53,186.98,276.31
+Ilocos Norte,Bacarra,13.29,12.32,29.59,171.24,293.91
+Ilocos Norte,Badoc,10.68,14,33.56,234.06,369.26
+Ilocos Norte,Bangui,64.48,47.98,62.84,164.46,273.11
+Ilocos Norte,Banna,16.01,20.05,48.85,230.44,346.93
+Ilocos Norte,Batac City,12.13,14.06,36.47,212.63,333.04
+Ilocos Norte,Burgos,46.12,36.67,51.4,163.84,287.49
+Ilocos Norte,Carasi,105.18,95.99,131.39,237.26,328.04
+Ilocos Norte,Currimao,8.37,9.91,26.63,203.98,322.56
+Ilocos Norte,Dingras,17.67,20.14,46.67,205.99,312.85
+Ilocos Norte,Dumalneg,116.58,83.63,102.37,181.57,281.89
+Ilocos Norte,Laoag City,11.09,10.01,28.84,179.17,299.95
+Ilocos Norte,Marcos,16.81,20.01,48.15,217.78,324.39
+Ilocos Norte,Nueva Era,53.88,62.25,102.38,254.13,372.19
+Ilocos Norte,Pagudpud,110.64,73.66,83.12,157.79,254.54
+Ilocos Norte,Paoay,8.54,8.56,26.17,196.48,317.5
+Ilocos Norte,Paoay Lake,8.47,8.38,26.71,184.86,295.4
+Ilocos Norte,Pasuquin,31.84,26.96,44.25,168.08,291.19
+Ilocos Norte,Piddig,33.48,31.71,57.63,195.33,296.77
+Ilocos Norte,Pinili,11.24,14.44,35.84,228.96,357.88
+Ilocos Norte,San Nicolas,11.15,10.78,31.21,189.23,308.34
+Ilocos Norte,Sarrat,15.39,15.95,39.78,200.8,317.49
+Ilocos Norte,Solsona,39.83,40.61,70.95,207.41,303.43
+Ilocos Norte,Vintar,73.36,60.53,85.7,195.39,297.54
+Ilocos Sur,Alilem,17.46,39.83,71.51,232.1,365.84
+Ilocos Sur,Banayoyo,11.09,16.14,30.13,217.17,387.01
+Ilocos Sur,Bantay,10.27,14.45,35.59,227.6,400.7
+Ilocos Sur,Burgos,11.78,18.69,38.58,231.49,400.44
+Ilocos Sur,Cabugao,8.28,11.33,27.17,235.88,380.64
+Ilocos Sur,Candon City,10.41,14.67,25.75,208.79,380.75
+Ilocos Sur,Caoayan,6.85,7.48,20.42,202.26,378.17
+Ilocos Sur,Cervantes,28.62,58.33,102.82,260.04,359.18
+Ilocos Sur,Galimuyod,12.75,19.93,35.61,221.37,389.64
+Ilocos Sur,Gregorio Del Pilar,21.43,40.37,72.36,254.05,402.8
+Ilocos Sur,Lidlidda,13.56,22.11,42.85,232.7,394.73
+Ilocos Sur,Magsingal,10.45,14.82,35.5,231.9,392.73
+Ilocos Sur,Nagbukel,12.57,21.05,48.93,247.24,407.71
+Ilocos Sur,Narvacan,9.72,14.64,35.4,228.74,393.81
+Ilocos Sur,Quirino,30.92,57.06,98.03,265.92,380.72
+Ilocos Sur,Salcedo,15.87,26.98,47.62,230.02,393.58
+Ilocos Sur,San Emilio,20.38,38.02,70.53,258.68,407.67
+Ilocos Sur,San Esteban,8.87,12.7,26.55,211.88,378.41
+Ilocos Sur,San Ildefonso,6.43,7.28,20.67,205.53,381.78
+Ilocos Sur,San Juan,9.34,13.39,32.83,235.92,389.34
+Ilocos Sur,San Vicente,5.36,6.04,16.93,194.25,363.92
+Ilocos Sur,Santa,10.01,14.28,35.12,227.12,399.2
+Ilocos Sur,Santa Catalina,5.43,5.91,16.81,194.39,369.75
+Ilocos Sur,Santa Cruz,12.06,20.43,32.43,206.68,379.33
+Ilocos Sur,Santa Lucia,10.45,14.89,23.79,201.02,375.69
+Ilocos Sur,Santa Maria,9.72,14.38,32.24,224.44,396.13
+Ilocos Sur,Santiago,9.69,14.37,28.08,212.19,382.07
+Ilocos Sur,Santo Domingo,7.11,9.14,24.5,214.22,383.89
+Ilocos Sur,Sigay,23.56,50.4,92.74,257.9,388.19
+Ilocos Sur,Sinait,9.63,13.12,30.82,236.82,372.74
+Ilocos Sur,Sugpon,14.13,37.97,73.18,227.63,351.36
+Ilocos Sur,Suyo,16.73,34.33,59.73,230.55,381.33
+Ilocos Sur,Tagudin,10.76,19.41,26.26,192.53,383.53
+Ilocos Sur,Vigan City,6.7,7.1,19.93,202.91,385.65
+Iloilo,Ajuy,90.19,71.53,73.2,168.47,233.5
+Iloilo,Alimodian,43.02,50.7,70.44,204.87,325.37
+Iloilo,Anilao,72.52,55.57,71,154.91,225.03
+Iloilo,Badiangan,62.47,59.91,75.47,178.51,234.66
+Iloilo,Balasan,100.37,93.68,73.19,196.23,259.71
+Iloilo,Banate,76.61,52.39,67.79,147.99,216.75
+Iloilo,Barotac Nuevo,63.74,55.37,72.47,150.42,229.9
+Iloilo,Barotac Viejo,81.41,59.37,69.73,156.88,225.3
+Iloilo,Batad,100,90.56,73.36,193.53,257.26
+Iloilo,Bingawan,77.89,64.17,72.32,181.95,245.98
+Iloilo,Cabatuan,51.21,55.95,75.7,173.83,252.19
+Iloilo,Calinog,72.25,62.28,72.36,197.19,266.92
+Iloilo,Carles,94.22,91.77,70.98,179.24,237.35
+Iloilo,Concepcion,94.38,79.2,72.68,171.7,230.64
+Iloilo,Dingle,69.68,57.04,72.19,160.77,225.97
+Iloilo,Duenas,69.48,59.52,73.33,172.45,230.52
+Iloilo,Dumangas,55.97,54.99,73.31,148.16,243.34
+Iloilo,Estancia,98.39,92.27,72.24,190.38,251.09
+Iloilo,Guimbal,30.92,37.18,61.18,176.44,324.71
+Iloilo,Igbaras,33.42,41.82,63.17,215.82,368.18
+Iloilo,Iloilo City,38.86,46.27,72.16,140.81,295.36
+Iloilo,Janiuay,56.34,57.82,73.65,214.13,306.83
+Iloilo,Lambunao,62.84,60.79,73.97,231.01,331.06
+Iloilo,Leganes,46.45,50.81,73.68,145.06,265.74
+Iloilo,Lemery,89.75,71.72,72.57,174.08,243.65
+Iloilo,Leon,39.69,48.25,68.62,211.49,344.69
+Iloilo,Maasin,48.54,53.95,71.75,207.2,307.18
+Iloilo,Miagao,28.79,36.15,58.35,210,373.94
+Iloilo,Mina,60.05,57.76,75.77,165.14,230.65
+Iloilo,New Lucena,54.52,55.49,75.45,159.36,242.98
+Iloilo,Oton,37.09,44.47,69.94,155.45,298.18
+Iloilo,Passi City,78.47,62.27,71.67,170.83,236.81
+Iloilo,Pavia,42.3,48.48,72.85,149.24,282.08
+Iloilo,Pototan,62.3,56.26,74.1,158.33,232.01
+Iloilo,San Dionisio,96.47,84.98,73.23,185.36,248.78
+Iloilo,San Enrique,76.53,59.14,71.06,164.19,230.32
+Iloilo,San Joaquin,23.31,29.31,51.64,204.26,380.59
+Iloilo,San Miguel,41.55,48.14,71.6,161.98,284.04
+Iloilo,San Rafael,83.09,66.41,72.8,173.59,245.4
+Iloilo,Santa Barbara,47.61,52.17,74.32,156.75,262.64
+Iloilo,Sara,94.01,80.35,73.64,183.15,251.47
+Iloilo,Tigbauan,33.78,40.87,65.51,169.78,313.02
+Iloilo,Tubungan,36.51,45.43,66.14,217.86,361.58
+Iloilo,Zarraga,51.93,53.1,74.01,148.56,251.2
+Isabela,Alicia,50.85,57.23,77.39,151.16,140.46
+Isabela,Angadanan,57.63,66.2,82.15,157.95,155.41
+Isabela,Aurora,44.47,47.37,69.25,143.58,168.12
+Isabela,Benito Soliven,60.88,66.19,77.84,146.16,176.41
+Isabela,Burgos,41.43,41.52,62.07,130.54,167.47
+Isabela,Cabagan,45.48,53.64,67.83,142.5,162.69
+Isabela,Cabatuan,45.36,47.87,70.19,142,159.11
+Isabela,Cauayan City,50.23,55.32,72.38,143.21,161.63
+Isabela,Cordon,83.78,65.46,91.92,162.39,155.03
+Isabela,Delfin Albano,34.32,36.35,56.46,126.79,165.73
+Isabela,Dinapigue,133.64,146.53,143.84,204.71,197.6
+Isabela,Divilacan,88.12,96.19,102.34,169.48,175.3
+Isabela,Echague,84.84,96.65,110.4,183.42,164.62
+Isabela,Gamu,43.3,41.94,60.34,126.29,174.97
+Isabela,Ilagan,75.83,79.39,85.76,148.51,173.1
+Isabela,Jones,87.31,95.97,108.22,182.43,165.07
+Isabela,Luna,44.64,47.73,67.78,138.56,163.71
+Isabela,Maconacon,100.91,111.46,120.45,194.34,194.31
+Isabela,Mallig,37.03,38.3,61.72,132.52,173.23
+Isabela,Naguilian,49.51,51.64,67.26,133.79,173.98
+Isabela,Palanan,107.3,110.98,106.25,164.6,174.81
+Isabela,Quezon,33.82,40.75,62.77,135.05,171.59
+Isabela,Quirino,38.49,37.97,58.24,126.55,174.36
+Isabela,Ramon,62.67,57.72,82.26,156.3,150.49
+Isabela,Reina Mercedes,45.13,47.44,63.38,132.13,172.07
+Isabela,Roxas,40.11,40.52,63.73,134.46,170.87
+Isabela,San Agustin,107.11,119.06,128.47,199.61,181.38
+Isabela,San Guillermo,96.3,107.52,114,180.12,175.64
+Isabela,San Isidro,51.98,58.66,80.37,157.07,133.77
+Isabela,San Manuel,42.93,43.13,66.22,136.8,167.62
+Isabela,San Mariano,91.92,99.53,102.28,165.12,181.4
+Isabela,San Mateo,52.17,53.39,76.11,149.57,151.98
+Isabela,San Pablo,69.29,79.4,89.43,165.36,174.58
+Isabela,Santa Maria,24.2,32.5,49.41,130.22,142.8
+Isabela,Santiago City,77.12,64.99,90.99,165.28,158.12
+Isabela,Santo Tomas,28.85,32.57,51.49,126.18,151.76
+Isabela,Tumauini,43.98,45.99,61.5,130.39,167.64
+Kalinga,Balbalan,85.17,112.78,161.71,288.59,331.45
+Kalinga,Lubuagan,75.04,109.48,167.23,301.51,336.79
+Kalinga,Pasil,79.7,111.76,166.97,300.57,340.23
+Kalinga,Pinukpuk,32.99,55.59,87.38,195,246.55
+Kalinga,Rizal,24.56,38.39,59.46,143.8,164.14
+Kalinga,Tabuk City,33.22,52.35,82.88,177.73,229.9
+Kalinga,Tanudan,70.34,96.85,138.99,266.92,327.39
+Kalinga,Tinglayan,79.89,107.5,160.88,295.44,335.44
+La Union,Agoo,8.48,13.41,34.67,207.11,370.99
+La Union,Aringay,8.36,15.77,37.08,204.29,360.91
+La Union,Bacnotan,8.27,17.75,26.86,189.78,380.54
+La Union,Bagulin,9.23,25.48,51.07,212.13,344.78
+La Union,Balaoan,9.04,19.51,26.1,191.64,396.37
+La Union,Bangar,9.77,19.7,25,188.8,390.28
+La Union,Bauang,7.37,11.71,26.34,191.65,364.97
+La Union,Burgos,8.67,23,48.5,210.22,346.86
+La Union,Caba,7.86,12.79,30.44,197.1,365.62
+La Union,Luna,8.12,18.59,22.65,184.87,394.06
+La Union,Naguilian,8.12,15.12,31.33,195.32,358.16
+La Union,Pugo,9.36,21.47,48.86,210.18,330.07
+La Union,Rosario,9.95,20.2,47.78,216.14,335.82
+La Union,San Fernando City,7.49,14.22,27.42,190.67,365.45
+La Union,San Gabriel,10.47,29.45,59.56,222.65,361.22
+La Union,San Juan,7.84,15.03,25.17,187.45,370.21
+La Union,Santo Tomas,9.07,16.25,40.63,212.85,355.39
+La Union,Santol,11.4,26.3,46.1,213.31,370.17
+La Union,Sudipen,11.72,23.39,35.16,201.72,378.61
+La Union,Tubao,9.35,15.69,37.97,208.1,358.24
+Laguna,Alaminos,32.7,36.49,51.19,153.62,231.5
+Laguna,Bay,26.84,33.27,45.77,155.24,249.1
+Laguna,Biñan,13.97,19.41,30.19,149.05,263.97
+Laguna,Cabuyao,15.73,22.82,33.91,152.23,262.9
+Laguna,Calamba City,19.49,26.64,38.59,160.11,261.24
+Laguna,Calauan,29.01,34.54,47.43,151.73,242.37
+Laguna,Cavinti,54.69,53.38,67.27,151.64,224.91
+Laguna,Famy,39.61,46.1,59.04,162.47,254.06
+Laguna,Kalayaan,50.12,51.54,64.68,154.98,234.02
+Laguna,Kalibato Lake,41.01,42.65,57.7,150.26,225.74
+Laguna,Laguna lake,17.44,24.91,35.09,141.18,238.95
+Laguna,Liliw,47.07,49.41,64.86,163.3,242.06
+Laguna,Los Baños,30.8,36.1,50.01,166.48,257.04
+Laguna,Luisiana,53.9,52.41,66.73,152.24,224.42
+Laguna,Lumban,48.3,49.11,62.07,151.48,230.9
+Laguna,Mabitac,31.78,39,51.5,161.89,256.7
+Laguna,Magdalena,36.15,37.87,50.5,148.5,237.5
+Laguna,Majayjay,51.39,51.06,66.21,157.32,231.7
+Laguna,Nagcarlan,42.19,44.96,59.62,159.56,241.45
+Laguna,Paete,53.46,55.15,68.7,159.91,236.33
+Laguna,Pagsanjan,36.28,38.99,51.24,150.01,240.08
+Laguna,Pakil,39.36,45.01,57.8,160.66,246.8
+Laguna,Pangil,42.18,47.1,59.85,159.48,245.58
+Laguna,Pila,27.38,32.53,44.08,152.19,251.38
+Laguna,Rizal,46.68,49.64,66.17,166.42,242.2
+Laguna,Sampaloc Lake,33.9,37.58,51.64,149.23,236.77
+Laguna,San Pablo City,35.79,38.64,53.34,147.45,226.25
+Laguna,San Pedro,13.05,17.58,28.28,147.15,265.24
+Laguna,Santa Cruz,28.92,33.42,45.03,153.2,253.63
+Laguna,Santa Maria,36.88,45.14,58.76,168.87,264.62
+Laguna,Santa Rosa City,14.92,21.23,32.2,151.47,263.72
+Laguna,Siniloan,42.66,48.27,61.45,163.48,251.96
+Laguna,Victoria,25.73,31.94,43.37,150.84,248.94
+Laguna,Waterbody,36.99,40.64,54.69,149.26,228.74
+Lanao del Norte,Bacolod,125.02,127.62,115.75,203.47,279.89
+Lanao del Norte,Baloi,112.26,117.31,132.5,253.83,333.39
+Lanao del Norte,Baroy,126.72,151.06,139.82,231.79,324.18
+Lanao del Norte,Iligan City,96.91,101.65,104.74,208.84,287.15
+Lanao del Norte,Kapatagan,110.46,144.81,161.22,265.89,372.6
+Lanao del Norte,Kauswagan,115.99,119.19,105.54,183.69,254.87
+Lanao del Norte,Kolambugan,135.74,144.03,125.25,210.17,293.56
+Lanao del Norte,Lala,118.77,148.11,144.59,233.67,337.91
+Lanao del Norte,Linamon,108.13,112.87,106.74,190.71,262.91
+Lanao del Norte,Magsaysay,126.57,141.09,137.22,239.22,327.21
+Lanao del Norte,Maigo,130.09,134.51,124.45,217.22,295.59
+Lanao del Norte,Matungao,114.1,119.13,128.57,241.54,318.57
+Lanao del Norte,Munai,115.62,130.1,158.87,302.54,374.13
+Lanao del Norte,Nunungan,116.15,140.62,167.61,308.48,382.19
+Lanao del Norte,Pantao Ragat,116.97,124.78,149.6,282.33,361.37
+Lanao del Norte,Pantar,114.45,120.94,146.6,278.14,353.8
+Lanao del Norte,Poona Piagapo,119.2,123.79,135.78,251.74,333
+Lanao del Norte,Salvador,123.25,153.58,150.29,256.95,344.6
+Lanao del Norte,Sapad,118.24,149.13,162.91,282.46,371.83
+Lanao del Norte,Sultan Naga Dimaporo,107.23,148.04,170.3,282.41,379.16
+Lanao del Norte,Tagoloan,108.53,111.72,122.69,237,314.84
+Lanao del Norte,Tangcal,116.79,132.75,156.51,291.35,372.08
+Lanao del Norte,Tubod,129.08,149.44,137.55,233.65,322.7
+Lanao del Sur,Bacolod Kalawi,113.38,131.99,164.99,317.17,376.84
+Lanao del Sur,Balabagan,114.48,162.54,180.55,342.76,364.21
+Lanao del Sur,Balindong,112.72,130.39,162,311.86,371.3
+Lanao del Sur,Bayang,111.27,131.48,167.57,314.13,371.17
+Lanao del Sur,Binidayan,111.52,132.65,167.96,315.62,371.59
+Lanao del Sur,Buadiposo-Buntong,109.46,118.83,149.22,287.04,354.69
+Lanao del Sur,Bubong,112.97,128.75,152.2,300.44,360.79
+Lanao del Sur,Bumbaran,123.88,142.6,172.68,329.33,360.33
+Lanao del Sur,Butig,116.11,133.35,170.42,324.4,372.85
+Lanao del Sur,Calanogas,114.49,138.62,171.95,322.46,386.35
+Lanao del Sur,Dapao Lake,110.09,130.91,167.99,313.67,376.71
+Lanao del Sur,Ditsaan-Ramain,111.54,119.31,150.43,283.97,349.54
+Lanao del Sur,Ganassi,110.6,130.37,166.92,315.5,376.38
+Lanao del Sur,Kapai,108.35,114.14,133.42,262.06,339.17
+Lanao del Sur,Kapatagan,115.11,154.98,179.04,334.02,354.17
+Lanao del Sur,Lanao Lake,109.85,124.6,159.19,293.29,352.44
+Lanao del Sur,Lumba-Bayabao,121.89,143.03,173.73,328.95,367.16
+Lanao del Sur,Lumbaca Unayan,111.51,129.38,167.74,313.99,370.55
+Lanao del Sur,Lumbatan,111.72,128.34,166.55,312.05,369.46
+Lanao del Sur,Lumbayanague,111.77,127.12,164.7,309.66,367.37
+Lanao del Sur,Madalum,112.94,130.78,164.55,315.47,380.11
+Lanao del Sur,Madamba,112.63,132.47,165.97,320.31,382.02
+Lanao del Sur,Maguing,116.47,134.37,161.61,312.93,361.81
+Lanao del Sur,Malabang,113.9,171.43,183.05,351.92,376.52
+Lanao del Sur,Marantao,113.62,127.27,158.15,304.28,371.69
+Lanao del Sur,Marawi City,114.97,119.6,150.17,285.57,358.68
+Lanao del Sur,Marogong,115.24,140.69,174.2,330.97,379.74
+Lanao del Sur,Masiu,110.3,124.64,160.29,301.49,357.21
+Lanao del Sur,Mulondo,109.52,121.01,153.11,292.67,353.3
+Lanao del Sur,Pagayawan,113.27,132.44,169.65,319.31,382.54
+Lanao del Sur,Piagapo,113.87,125.37,155.58,298.38,369.16
+Lanao del Sur,Picong,112.74,164.01,177.74,325.17,376.7
+Lanao del Sur,Poona Bayabao,110.33,123.58,158.69,299.58,357.14
+Lanao del Sur,Pualas,111.68,130.64,167.01,315.11,378.62
+Lanao del Sur,Saguiaran,114.71,119.55,148.27,280.68,356.41
+Lanao del Sur,Sultan Dumalondong,116.39,133.72,172.85,331.12,377.24
+Lanao del Sur,Tagoloan II,105.06,117.06,135.53,273.08,343.67
+Lanao del Sur,Tamparan,109.29,122.43,156.92,293,352.08
+Lanao del Sur,Taraka,108.91,121.42,155.22,291.18,351.62
+Lanao del Sur,Tubaran,114.17,147,172.42,323.76,374.93
+Lanao del Sur,Tugaya,115.23,137.94,167.3,324.74,375.9
+Lanao del Sur,Wao,110.99,120.97,152.18,310.79,357.86
+Leyte,Abuyog,320.57,253.45,204.98,201.54,198.05
+Leyte,Alangalang,203.32,159.58,135.2,148.09,202.35
+Leyte,Albuera,207.37,161.67,137.31,168.62,210.92
+Leyte,Babatngon,210.32,162.1,140.51,158.46,210.07
+Leyte,Barugo,183.75,141.05,125.18,144.11,201.2
+Leyte,Bato,184.08,137.49,100.65,138.71,194.41
+Leyte,Baybay City,231.46,181.07,148.58,176.13,208.64
+Leyte,Burauen,237.52,188.46,158.71,178.12,209.46
+Leyte,Calubian,123.98,95.99,96.85,138.94,209.47
+Leyte,Capoocan,162.18,128.75,116.87,154.71,218.15
+Leyte,Carigara,180.29,141.82,125.51,159.09,217.31
+Leyte,Dagami,230.03,178.43,150.01,168.65,210.85
+Leyte,Dulag,288.73,227.16,188.59,180.04,193.18
+Leyte,Hilongos,187.34,139.12,106.2,144.07,201.04
+Leyte,Hindang,190.33,143.34,111.98,149.74,207.16
+Leyte,Inopacan,216.71,170.87,132.31,170.35,215.98
+Leyte,Isabel,130.32,98.83,91.88,131.36,197.18
+Leyte,Jaro,198.39,156.39,134.6,163.8,216.78
+Leyte,Javier,286.73,227.1,188.2,197.38,204.97
+Leyte,Julita,267.7,212.59,177.93,175.71,196.76
+Leyte,Kananga,148.15,114.32,106.8,139.97,206.13
+Leyte,La Paz,265.8,209.19,175.02,188.63,206.69
+Leyte,Leyte,136.46,105.78,102.52,137.54,205.74
+Leyte,Macarthur,292.21,231.91,194.44,195.13,196.9
+Leyte,Mahaplag,283.83,221.68,177.28,188.94,204.1
+Leyte,Matag-Ob,129.17,100.76,96,133.93,201.95
+Leyte,Matalom,181.61,141.75,97.85,141.1,192.48
+Leyte,Mayorga,302.4,242.15,203,191.44,188.81
+Leyte,Merida,139.38,107.06,98.63,135.95,199.82
+Leyte,Ormoc City,173.93,139.28,123.18,159.52,215.12
+Leyte,Palo,229.05,183.79,150.72,153.88,198.23
+Leyte,Palompon,125.41,91.73,90.59,126.28,193.33
+Leyte,Pastrana,214.98,169.86,143.42,156.64,203.2
+Leyte,San Isidro,120.79,92.77,93.99,135.79,207.68
+Leyte,San Miguel,197.63,152.4,132.16,148.38,203.48
+Leyte,Santa Fe,218.13,173.17,142.8,150.21,201.13
+Leyte,Tabango,121.71,93.91,93.69,132.06,203.98
+Leyte,Tabontabon,251.21,195.05,162.4,164.2,199.49
+Leyte,Tacloban City,220.43,172.08,144.28,155.09,205.57
+Leyte,Tanauan,245,197.17,162.23,161.51,196.69
+Leyte,Tolosa,266.66,211.22,173.53,168.53,194.44
+Leyte,Tunga,184.81,142.2,125.68,146.62,204.93
+Leyte,Villaba,123.29,96,93.68,130.88,200.31
+Maguindanao,Ampatuan,107.27,121.86,157.52,264.49,283
+Maguindanao,Buluan,87.07,95.39,102.2,196.56,233.92
+Maguindanao,Buluan Lake,82.7,92.47,99.98,182.11,212.95
+Maguindanao,Cotabato City,116.21,146.33,169.83,286.97,302.93
+Maguindanao,Datu Abdullah Sanki,105.6,114.52,133.26,227.02,255.08
+Maguindanao,Datu Anggal Midtimbang,118.7,133.18,158.76,260.98,278.96
+Maguindanao,Datu Paglas,89.36,93.47,110.62,196.89,216.53
+Maguindanao,Datu Piang,114.54,127.06,147.26,242,253.85
+Maguindanao,Datu Saudi-Ampatuan,112.26,124.9,146.75,243.49,259.25
+Maguindanao,Datu Unsay,110.99,125.33,156.04,261.41,280.82
+Maguindanao,Gen. S. K. Pendatun,94.66,102.71,114.09,210.58,240.48
+Maguindanao,Guindulungan,114.57,129.52,158.51,262.72,281.94
+Maguindanao,Mamasapano,110.09,120.65,139.66,234.01,252.56
+Maguindanao,Mangudadatu,84.72,92.89,101.17,186.25,217.58
+Maguindanao,Pagagawan,109.25,111.89,131.92,228.14,241.64
+Maguindanao,Pagalungan,99.02,106.91,121.8,212.2,231.13
+Maguindanao,Paglat,89.24,99.24,109.26,200,227.37
+Maguindanao,Pandag,89.74,97.1,105.24,200.51,234.93
+Maguindanao,Rajah Buayan,108.28,116.37,133.7,228.75,248.07
+Maguindanao,Shariff Aguak,110.98,122.2,144.08,239.14,263.45
+Maguindanao,South Upi,110.54,130.51,174.48,291.26,313.85
+Maguindanao,Sultan Sa Barongis,104.52,111.24,126.55,221.81,244.73
+Maguindanao,Talayan,114.28,130.86,162.2,268.34,288.03
+Maguindanao,Talitay,116.96,132.53,155.56,254.96,270.43
+Marinduque,Boac,65.49,54.01,63.88,143.66,212.43
+Marinduque,Buenavista,58.52,50.29,60.47,143.53,221.66
+Marinduque,Gasan,64.2,52.35,64.52,147.93,220.25
+Marinduque,Mogpog,65.63,55.93,62.55,135.87,199.66
+Marinduque,Santa Cruz,61.22,56.67,55.85,129.2,201.21
+Marinduque,Torrijos,57.79,52.52,58.45,138.66,217.77
+Masbate,Aroroy,92.66,88.83,68.88,118.92,186.01
+Masbate,Baleno,103.85,97.05,73.6,119.99,184.69
+Masbate,Balud,86.05,85.81,65.35,138.38,202.4
+Masbate,Batuan,126.24,110.43,84.93,113.43,169.63
+Masbate,Cataingan,116.75,97.11,84.63,133,200.81
+Masbate,Cawayan,109.11,94.18,75.02,128.54,188.5
+Masbate,Claveria,86.23,82.87,74.55,124.74,207.16
+Masbate,Dimasalang,120.1,102.19,82.1,125.25,185.22
+Masbate,Esperanza,111.9,88.24,81.83,131.02,198.85
+Masbate,Mandaon,90.2,86.8,64.77,124.86,187.2
+Masbate,Masbate City,105.01,95.56,70.16,112.61,174.19
+Masbate,Milagros,97.66,92.04,66.89,123.48,181.34
+Masbate,Mobo,112.43,101.71,77.03,120.64,180.03
+Masbate,Monreal,132.91,120.26,94.44,124.77,183.71
+Masbate,Palanas,122.62,103.36,85.7,131.44,193.23
+Masbate,Pio V. Corpuz,111.05,91.38,84.76,133.3,202.7
+Masbate,Placer,113.61,92.67,79.82,133.91,199.08
+Masbate,San Fernando,129.11,113.62,87.57,116.07,175.44
+Masbate,San Jacinto,133.3,118.35,92.18,122.18,180.21
+Masbate,San Pascual,65.37,60.75,62.77,126.99,228.46
+Masbate,Uson,114.58,100.33,77.79,122.95,182.65
+Metropolitan Manila,Kalookan City,16.72,22.83,41.47,187.64,348.64
+Metropolitan Manila,Las Piñas,10.94,13.48,23.38,136.66,258.98
+Metropolitan Manila,Makati City,11.71,14.5,25.99,140.9,257.09
+Metropolitan Manila,Malabon,12.12,16.65,32.04,165.95,314.1
+Metropolitan Manila,Mandaluyong,12.97,16.73,29.64,151.6,277.04
+Metropolitan Manila,Manila,11.88,14.47,27.89,150.32,281.96
+Metropolitan Manila,Marikina,16.58,22.47,37.72,170.37,309.22
+Metropolitan Manila,Muntinlupa,11.6,15.92,26.13,141.67,258.61
+Metropolitan Manila,Navotas,11.54,15.88,30.91,160.39,302.17
+Metropolitan Manila,Parañaque,10.93,13.42,23.4,134.9,250.32
+Metropolitan Manila,Pasay City,10.53,12.54,23.3,134.5,249.85
+Metropolitan Manila,Pasig City,14.34,18.64,31.54,154.2,278.85
+Metropolitan Manila,Pateros,13.04,16.23,27.93,143.9,260.22
+Metropolitan Manila,Quezon City,15.76,22.27,38.83,177.33,325.65
+Metropolitan Manila,San Juan,13.14,17.2,30.57,155.39,286.92
+Metropolitan Manila,Taguig,11.65,15.5,26.16,138.73,248.91
+Metropolitan Manila,Valenzuela,14.04,19.07,36.19,176.9,331.09
+Misamis Occidental,Aloran,121.92,116.62,104,185.38,272.33
+Misamis Occidental,Baliangao,102.19,87.64,82.34,132.26,212.8
+Misamis Occidental,Bonifacio,109.74,128.77,141.07,232.17,352.5
+Misamis Occidental,Calamba,112.33,100.3,92.93,158.09,245.23
+Misamis Occidental,Clarin,126.27,132.96,124.24,225.28,313.4
+Misamis Occidental,Concepcion,105.03,111.13,116.01,224.22,318.25
+Misamis Occidental,Don Victoriano Chiongbian,104.22,124.59,140.75,286.07,366.97
+Misamis Occidental,Jimenez,120.68,123.92,117.29,218.57,305.2
+Misamis Occidental,Lopez Jaena,116.3,102.29,88.53,147.1,230.25
+Misamis Occidental,Oroquieta City,116.63,110.14,101.45,180.31,269.4
+Misamis Occidental,Ozamis City,134.95,142.11,123.33,210.88,301.81
+Misamis Occidental,Panaon,124.43,120.72,106.33,188.36,276.67
+Misamis Occidental,Plaridel,104.83,90.74,80.21,128.1,206.9
+Misamis Occidental,Sapang Dalaga,107.63,96.74,93.87,157.75,247.36
+Misamis Occidental,Sinacaban,123.73,125.63,115.25,208.93,296.88
+Misamis Occidental,Tangub City,121.14,136.89,136.68,228.9,335.62
+Misamis Occidental,Tudela,123.66,128.69,120.21,218.07,306.13
+Misamis Oriental,Alubijid,87.18,78.93,71.06,134.48,228.72
+Misamis Oriental,Balingasag,128.95,124.07,91.02,164.87,237.52
+Misamis Oriental,Balingoan,166.18,168.73,114.61,199.34,258.11
+Misamis Oriental,Binuangan,148.19,140.73,89.32,152.13,215.7
+Misamis Oriental,Cagayan de Oro City,88.42,85.45,84.13,171.72,264
+Misamis Oriental,Claveria,169.64,183.72,146.91,259.2,310.75
+Misamis Oriental,El Salvador City,87.15,81.85,76.2,150.48,245.38
+Misamis Oriental,Gingoog City,195.91,196.53,144.45,227.79,272.14
+Misamis Oriental,Gitagum,86.26,79.31,68.07,126.34,213.8
+Misamis Oriental,Initao,89.05,81.87,71.82,130.43,214.3
+Misamis Oriental,Jasaan,111.91,105.77,83.88,153.65,230.77
+Misamis Oriental,Kinoguitan,156.96,148.84,91.62,152.48,213.03
+Misamis Oriental,Lagonglong,140.76,137.02,96.09,171.33,239.01
+Misamis Oriental,Laguindingan,85.46,77.55,65.28,119.38,207.87
+Misamis Oriental,Libertad,88.71,82.66,71.91,135.48,222.79
+Misamis Oriental,Lugait,93.89,88.96,81.23,143.94,220.36
+Misamis Oriental,Magsaysay,252.74,229.86,146.34,180.19,210.42
+Misamis Oriental,Manticao,96.49,93.97,90.49,177.19,260.65
+Misamis Oriental,Medina,184.75,187.38,135.02,223.85,274.77
+Misamis Oriental,Naawan,93.55,88.39,81.73,156.48,241.1
+Misamis Oriental,Opol,86.33,81.47,78.99,157.99,252.55
+Misamis Oriental,Salay,148.74,147.43,101.04,181.34,247.2
+Misamis Oriental,Sugbongcogon,152.16,148.69,95.9,166.69,229.22
+Misamis Oriental,Tagoloan,104.42,94.82,85.2,157.49,245.1
+Misamis Oriental,Talisayan,173.61,171.33,112.87,188.25,244.82
+Misamis Oriental,Villanueva,107.04,103.51,87.61,166.46,247.91
+Mountain Province,Barlig,82.03,114.44,177.22,304.15,306.33
+Mountain Province,Bauko,46.76,89.07,154.21,287.22,312.66
+Mountain Province,Besao,49.1,87.94,147.23,286.08,342.51
+Mountain Province,Bontoc,68.07,103.98,165.75,294.27,319.65
+Mountain Province,Natonin,76.98,95.61,140.3,257.33,297.79
+Mountain Province,Paracelis,43.04,53.8,82.06,167.62,222.15
+Mountain Province,Sabangan,52.73,92.48,160.05,289.95,307.62
+Mountain Province,Sadanga,75.5,105.76,165.64,303.12,334.01
+Mountain Province,Sagada,58.11,95.43,162.64,290.05,319.99
+Mountain Province,Tadian,39.95,79.74,135.25,270.72,329.4
+Negros Occidental,Bacolod City,71.31,69.66,81.49,185.13,264.37
+Negros Occidental,Bago City,56.73,60.25,87.31,194.59,301.99
+Negros Occidental,Binalbagan,55.43,71.41,86.93,202.76,315.61
+Negros Occidental,Cadiz City,95.4,82.85,77.59,182.49,244.17
+Negros Occidental,Calatrava,90.32,79.91,67.53,160.52,202.85
+Negros Occidental,Candoni,34.22,50.87,77.56,181.39,328.25
+Negros Occidental,Cauayan,30.22,44.34,76.57,180.56,340.38
+Negros Occidental,Enrique B. Magalona,89.86,75.51,80.58,173.51,238.33
+Negros Occidental,Escalante City,93.08,71.79,61.24,142.84,184.95
+Negros Occidental,Himamaylan City,49.53,64.33,86.65,194.9,316.6
+Negros Occidental,Hinigaran,44.98,49.74,96.68,204.4,361.78
+Negros Occidental,Hinoba-An,28.92,42.71,72.53,162.44,316.65
+Negros Occidental,Ilog,37.29,51.65,80.54,177.27,316.92
+Negros Occidental,Isabela,54.35,64.83,90.55,200.19,320.16
+Negros Occidental,Kabankalan City,43.21,57.18,81.99,175.3,297.74
+Negros Occidental,La Carlota City,54.28,61.21,91.73,208.78,332.26
+Negros Occidental,La Castellana,57.9,67.43,91.34,207.79,325.11
+Negros Occidental,Manapla,100.4,77.64,81.14,173.07,238.39
+Negros Occidental,Moises Padilla,59.31,68.6,88.36,197.7,301.25
+Negros Occidental,Murcia,73.96,81.52,84.5,204.43,280.85
+Negros Occidental,Pontevedra,47.07,50.77,97.4,210.44,362.97
+Negros Occidental,Pulupandan,45.93,51.15,85.03,178.66,304.8
+Negros Occidental,Sagay City,95.8,74.83,67.23,155.26,203
+Negros Occidental,Salvador Benedicto,81.88,91.08,80.41,200.44,265.99
+Negros Occidental,San Carlos City,83.93,86.56,75.33,183.69,235.65
+Negros Occidental,San Enrique,46.77,48.4,94,200.2,340.59
+Negros Occidental,Silay City,86.23,78.5,80.31,182,244.06
+Negros Occidental,Sipalay City,25.57,37.59,71.65,165.45,334.02
+Negros Occidental,Talisay City,81.64,84.14,83.22,199.05,267.39
+Negros Occidental,Toboso,92.74,74.32,62.61,146.46,184.56
+Negros Occidental,Valladolid,46.39,49.74,90.41,193.42,326.43
+Negros Occidental,Victorias City,95.33,78.68,82.17,179.53,247.5
+Negros Oriental,Amlan,69.88,77.58,71.63,143.8,193.86
+Negros Oriental,Ayungon,65.07,86.59,79.13,189.21,261.2
+Negros Oriental,Bacong,56.83,53.32,56.83,103.6,158.1
+Negros Oriental,Bais City,59.71,77.25,77.18,165.73,235.43
+Negros Oriental,Basay,28.14,40.26,70.6,147.63,300.62
+Negros Oriental,Bayawan City,37.24,50.72,74.12,150.06,274.53
+Negros Oriental,Bindoy,65.76,88.66,78.38,189.25,260.52
+Negros Oriental,Canlaon City,72.15,86.56,80.07,197.59,265.52
+Negros Oriental,Dauin,59.21,66.84,65.45,144.58,215.37
+Negros Oriental,Dumaguete City,59.51,51.41,57.03,92.21,140.73
+Negros Oriental,Guihulngan City,72.4,88.59,77.75,190.95,255.27
+Negros Oriental,Jimalalud,71.17,91.9,80.48,201.86,273.36
+Negros Oriental,La Libertad,68.69,87.03,79.15,191.25,259.6
+Negros Oriental,Mabinay,51.74,68.63,80.11,167.37,255.68
+Negros Oriental,Manjuyod,64.32,82.6,76.87,163.61,219.34
+Negros Oriental,Pamplona,58.99,71.23,73.07,148.33,215.08
+Negros Oriental,San Jose,70.24,76.14,68.8,136.75,185.72
+Negros Oriental,Santa Catalina,46.32,59.72,68.78,157.1,263.2
+Negros Oriental,Siaton,39.92,44.29,53.38,139.25,255.92
+Negros Oriental,Sibulan,68.1,81.01,73.49,168.95,238.31
+Negros Oriental,Tanjay City,58.91,73.8,74.97,154.86,221.13
+Negros Oriental,Tayasan,67.39,90.31,80.27,200.52,274.16
+Negros Oriental,Valencia,73.85,89.32,80.52,192.44,264.78
+Negros Oriental,Vallehermoso,76.64,81.47,73.41,173.28,222.81
+Negros Oriental,Zamboanguita,50.83,55.9,59.02,138.94,227.41
+North Cotabato,Alamada,115.56,130.75,163.77,313.63,340.93
+North Cotabato,Aleosan,118.41,123.08,144.74,246.86,251.83
+North Cotabato,Antipas,103.56,102.41,138.45,262.6,263.85
+North Cotabato,Arakan,109.34,114.54,151.54,288.31,283.07
+North Cotabato,Banisilan,110.26,117.25,146.78,290.41,320.86
+North Cotabato,Carmen,114.02,114.58,140.15,253.75,262.44
+North Cotabato,Kabacan,107.58,108.6,130.97,226.62,241.08
+North Cotabato,Kidapawan City,99.32,98.64,135.66,234.59,224.22
+North Cotabato,Libungan,118.26,128.99,154.41,275.57,285.71
+North Cotabato,Magpet,106.07,112.55,154.51,285.86,271.72
+North Cotabato,Makilala,103.14,104.85,144.92,246.5,242.13
+North Cotabato,Matalam,102.82,102.04,129.37,235.26,238.48
+North Cotabato,Midsayap,119.24,128.36,148.23,246.9,253.38
+North Cotabato,M'Lang,92.86,100.84,115.83,209.43,216.87
+North Cotabato,Pigkawayan,119.62,136.97,159.34,276.62,283.62
+North Cotabato,Pikit,112.6,117.45,136.54,234.18,245.92
+North Cotabato,President Roxas,104.7,101.28,134.08,241.85,240.16
+North Cotabato,Tulunan,88.54,92.45,116.86,212.69,214.46
+Northern Samar,Allen,208.06,158.73,126.19,151.43,194.65
+Northern Samar,Biri,228.51,179.03,132.73,152.07,189.56
+Northern Samar,Bobon,227.98,164.86,132.01,164.27,211.51
+Northern Samar,Capul,177.52,141.21,115.27,138.89,183.38
+Northern Samar,Catarman,243.47,174.43,133.23,166.8,211.89
+Northern Samar,Catubig,296.16,217.62,148.85,186.98,208.23
+Northern Samar,Gamay,298.31,226.71,163.15,194.43,198.32
+Northern Samar,Laoang,315.54,228.5,132.32,174.12,206.35
+Northern Samar,Lapinig,285.01,220.78,172.07,200.49,196.04
+Northern Samar,Las Navas,278.47,202.42,151.55,186.95,207.76
+Northern Samar,Lavezares,215.79,164.1,127.98,152.95,197.38
+Northern Samar,Lope de Vega,233.46,166.93,136.59,171.79,216.96
+Northern Samar,Mapanas,310.01,231.99,156.34,192.32,203.94
+Northern Samar,Mondragon,263.4,188.9,137.57,174.32,213.8
+Northern Samar,Palapag,318.01,234.2,143.25,183.45,205.8
+Northern Samar,Pambujan,294.74,211.07,137.25,177.03,209.87
+Northern Samar,Rosario,222.48,165.81,129.79,158.21,205.79
+Northern Samar,San Antonio,189.58,144.37,119.18,143.35,188.89
+Northern Samar,San Isidro,201.89,153.23,128.68,163.39,210.94
+Northern Samar,San Jose,228.42,169.02,130.47,159.72,205.99
+Northern Samar,San Roque,287.31,204.94,136.23,175.56,211.83
+Northern Samar,San Vicente,152.94,125.18,103.24,130.02,176.11
+Northern Samar,Silvino Lobos,258.17,185.14,144.97,181.02,213.3
+Northern Samar,Victoria,212.81,158.38,128.78,159.1,206.56
+Nueva Ecija,Aliaga,3.86,16.88,39.57,168.96,230.06
+Nueva Ecija,Bongabon,37.71,68.04,93.85,223.26,249.83
+Nueva Ecija,Cabanatuan City,7.1,23.06,43.71,181,242.25
+Nueva Ecija,Cabiao,3.77,17.21,44.44,178.88,254.89
+Nueva Ecija,Carranglan,24.26,55.45,91.42,207.04,210.25
+Nueva Ecija,Cuyapo,11.06,23.22,50.49,201.87,251.72
+Nueva Ecija,Gabaldon,44.05,74.45,100.2,230.46,268.69
+Nueva Ecija,Gapan City,10.45,22.77,49.13,190.96,262.34
+Nueva Ecija,General Mamerto Natividad,10.61,29.43,49.02,191.12,243.91
+Nueva Ecija,General Tinio,32.45,55.71,83.84,220.75,284.88
+Nueva Ecija,Guimba,8.49,19.5,44.74,186.47,239.42
+Nueva Ecija,Jaen,1.86,16.48,41.14,169.32,235.14
+Nueva Ecija,Laur,29.46,52.66,77.19,217.74,263.62
+Nueva Ecija,Licab,6.58,17.65,43.71,173.37,229.36
+Nueva Ecija,Llanera,9.61,26.75,46.37,192.88,240.27
+Nueva Ecija,Lupao,13.47,28.98,54.11,198.7,232.85
+Nueva Ecija,Muñoz City,7.28,20.67,41.14,192.82,241.79
+Nueva Ecija,Nampicuan,10.28,22.38,50.56,197.56,252.92
+Nueva Ecija,Palayan City,19.63,37.59,59.95,203.05,253.25
+Nueva Ecija,Pantabangan,32.88,60.13,87.31,211.63,220.73
+Nueva Ecija,Peñaranda,10.66,24.27,48.45,189.52,256.93
+Nueva Ecija,Quezon,4.26,17.5,40.24,176.33,231.54
+Nueva Ecija,Rizal,22.12,40.56,62.39,205.93,243.99
+Nueva Ecija,San Antonio,1.96,16.53,43.71,168.71,234.13
+Nueva Ecija,San Isidro,4.26,17.11,43.98,181.24,248.34
+Nueva Ecija,San Jose City,15.73,33.75,56.38,203.73,235.58
+Nueva Ecija,San Leonardo,3.78,17.39,41.61,176.44,243.55
+Nueva Ecija,Santa Rosa,8.3,23.37,46.04,182.21,245.09
+Nueva Ecija,Santo Domingo,5.27,18.34,39.25,181.53,236.43
+Nueva Ecija,Talavera,6.16,20.03,39.63,182.59,239.34
+Nueva Ecija,Talugtug,10.71,21.34,45.16,196.83,243.31
+Nueva Ecija,Zaragoza,3.05,16.54,42.67,166.44,220.14
+Nueva Vizcaya,Alfonso Castaneda,51.46,90.09,121.99,225.56,216.4
+Nueva Vizcaya,Ambaguio,38.76,74.47,123.23,225.9,210.94
+Nueva Vizcaya,Aritao,24.37,58.82,99.63,194.27,175.59
+Nueva Vizcaya,Bagabag,110.43,71.87,107.39,167.03,163.4
+Nueva Vizcaya,Bambang,36.66,66.69,109.37,195.03,159.92
+Nueva Vizcaya,Bayombong,46.55,67.44,111.05,191.76,154.1
+Nueva Vizcaya,Diadi,102.99,79.22,113.28,180.16,170.92
+Nueva Vizcaya,Dupax Del Norte,43.57,80.37,119.55,209.94,178.85
+Nueva Vizcaya,Dupax Del Sur,36.91,74.76,113.67,213.01,197.61
+Nueva Vizcaya,Kasibu,59.32,93.8,133.09,218.2,179.84
+Nueva Vizcaya,Kayapa,25.56,60.22,109.58,223.25,243.18
+Nueva Vizcaya,Quezon,71.62,82.45,121.34,193.57,157.35
+Nueva Vizcaya,Santa Fe,18.4,52.17,94.69,205.67,220.88
+Nueva Vizcaya,Solano,78.38,63.07,102.83,165.85,141.89
+Nueva Vizcaya,Villaverde,78.07,68.19,107.95,183.55,172.97
+Occidental Mindoro,Abra de Ilog,30.53,26.67,56.86,183.33,294.06
+Occidental Mindoro,Calintaan,41.77,20.35,53.01,199.44,388.61
+Occidental Mindoro,Looc,10.49,5.72,30.43,173.1,313.45
+Occidental Mindoro,Lubang,8.61,4.06,27.72,183.12,337.6
+Occidental Mindoro,Magsaysay,41.5,16.31,47.71,213.83,430.75
+Occidental Mindoro,Mamburao,28.88,20.15,51.11,170.79,289.5
+Occidental Mindoro,Paluan,21.95,16.15,46.61,184.14,311.67
+Occidental Mindoro,Rizal,39.23,14,46.26,198.89,421.73
+Occidental Mindoro,Sablayan,44.38,33.48,65.91,206.32,345.94
+Occidental Mindoro,San Jose,40.76,16.33,48.36,208.15,425.65
+Occidental Mindoro,Santa Cruz,37.84,29.01,60.83,185.3,311.41
+Oriental Mindoro,Baco,54.87,48.01,74.41,180.09,278.93
+Oriental Mindoro,Bansud,54.15,37.19,66.72,193.68,323.18
+Oriental Mindoro,Bongabong,50.61,32.1,62.28,194.05,334.54
+Oriental Mindoro,Bulalacao,42.77,21.55,52.76,216.19,401.13
+Oriental Mindoro,Calapan City,66.5,58.97,78.92,152.36,242.16
+Oriental Mindoro,Gloria,57.38,38.89,67.09,181.19,303.16
+Oriental Mindoro,Mansalay,46.95,29.21,60.66,211.66,367.48
+Oriental Mindoro,Naujan,63.85,52.25,75.75,165.35,263.77
+Oriental Mindoro,Naujan Lake,64.18,49.87,72.36,153.53,245.13
+Oriental Mindoro,Pinamalayan,59.88,42.94,68.84,170.69,278.93
+Oriental Mindoro,Pola,63.51,49.29,72.19,160.57,252
+Oriental Mindoro,Puerto Galera,40.58,36.44,66.32,196.77,302.34
+Oriental Mindoro,Roxas,47.51,26.99,56.74,189.8,336.31
+Oriental Mindoro,San Teodoro,46.41,43.14,72.76,200.16,302.62
+Oriental Mindoro,Socorro,62.35,44.54,70.35,167.23,274.35
+Oriental Mindoro,Victoria,64.09,48.45,73.41,165.04,267.84
+Palawan,Aborlan,23.7,23.92,49.27,144.43,187.14
+Palawan,Agutaya,15.89,16.35,43.75,217.64,393.8
+Palawan,Araceli,13.2,16.37,44.84,176.58,297.94
+Palawan,Balabac,67.65,80.56,61.32,123.88,152.88
+Palawan,Bataraza,39.94,58.59,50.23,121.92,159.39
+Palawan,Brooke's Point,32.65,49.2,53.25,138.32,178.06
+Palawan,Busuanga,20.21,9.56,45.77,202.31,365.52
+Palawan,Cagayancillo,12.4,20.29,50.23,165.04,317.86
+Palawan,Coron,22.6,10.85,48.03,208.61,380.23
+Palawan,Culion,19.92,11.19,49.08,203.82,355.19
+Palawan,Cuyo,9.58,15.81,41.81,196.75,361.91
+Palawan,Dumaran,15.39,17.73,45.38,170.85,280.79
+Palawan,El Nido,16.15,14.11,44.74,182.22,305.32
+Palawan,Linapacan,16.34,12.95,46.75,191.86,329.6
+Palawan,Magsaysay,9.2,16.4,41.44,201.19,369.69
+Palawan,Narra,24.79,29.02,50.56,143.75,185.92
+Palawan,Puerto Princesa City,21.53,27.1,48.11,151.4,212.18
+Palawan,Quezon,23.77,32.45,46.17,132.11,173.76
+Palawan,Rizal,31.31,48.93,45.92,120.4,159.62
+Palawan,Roxas,18.14,21.15,46.2,162.83,254.22
+Palawan,San Vicente,17.59,20.16,45.29,163.18,256.48
+Palawan,Sofronio Espanola,24.3,35.93,44.89,127.48,168.41
+Palawan,Taytay,16.14,16.36,44.69,174.18,286.13
+Pampanga,Angeles City,8.88,19.85,48.73,206.51,314.85
+Pampanga,Apalit,9.68,17.71,40.96,195.61,336.96
+Pampanga,Arayat,4.8,18.9,46.73,188.12,273.8
+Pampanga,Bacolor,5.86,16.85,41.65,199.73,321.93
+Pampanga,Candaba,7.28,19.14,45.42,192.19,302.79
+Pampanga,Floridablanca,7.58,15.45,38.03,219.33,377.16
+Pampanga,Guagua,7.1,16.14,38.19,197.39,329.09
+Pampanga,Lubao,8.41,14.41,33.82,203.1,352.88
+Pampanga,Mabalacat,7.79,20.58,50.8,213.02,330.47
+Pampanga,Macabebe,6.73,15.39,37.41,192.9,329.51
+Pampanga,Magalang,5.78,19.08,48.84,182.43,261.11
+Pampanga,Masantol,9.77,15.05,33.72,189.19,327.07
+Pampanga,Mexico,4.88,17.97,44.63,191.89,293.78
+Pampanga,Minalin,7.31,16.58,38.58,190.19,314.51
+Pampanga,Porac,8.49,18.24,45.06,217.32,347.42
+Pampanga,San Fernando City,6,17.59,43.47,197.51,310.01
+Pampanga,San Luis,6.16,17.77,42.53,192.03,315.8
+Pampanga,San Simon,6.01,17.01,41.17,196.09,320.05
+Pampanga,Santa Ana,4.91,17.65,43.39,185.46,285.73
+Pampanga,Santa Rita,5.3,15.88,39.59,201.27,326.99
+Pampanga,Santo Tomas,5.28,16.1,39.42,192.88,315.12
+Pampanga,Sasmuan,8.28,14.82,34.98,193.69,330.69
+Pangasinan,Agno,4.25,9.88,40.5,245.56,529.34
+Pangasinan,Aguilar,10.41,30.81,62.58,240.9,352.64
+Pangasinan,Alaminos City,5.53,11.99,43.64,246.33,501.92
+Pangasinan,Alcala,11.65,27.32,58.09,217.85,284.83
+Pangasinan,Anda,4.94,9.65,34.59,228.84,478.5
+Pangasinan,Asingan,12.46,27.6,52.28,205.83,266.06
+Pangasinan,Balungao,12.23,26.07,52.46,206.84,257.15
+Pangasinan,Bani,4.57,9.46,38.5,243.17,519.82
+Pangasinan,Basista,12.7,32.88,63.66,232.54,303.08
+Pangasinan,Bautista,11.54,27.8,58.68,214.67,272.78
+Pangasinan,Bayambang,12.47,30.86,62.24,221.02,287.78
+Pangasinan,Binalonan,12.72,26.78,55.1,216.09,289.08
+Pangasinan,Binmaley,10.57,26.66,58.81,243.27,351.3
+Pangasinan,Bolinao,4.29,8.4,32.72,229.99,504.19
+Pangasinan,Bugallon,9.41,27.45,59.65,247.11,378.48
+Pangasinan,Burgos,4.77,11.66,45.07,253.66,527.94
+Pangasinan,Calasiao,11.54,28.07,60.2,244.98,338.73
+Pangasinan,Dagupan City,10.43,24.54,56.47,243.39,358.15
+Pangasinan,Dasol,5.62,15.15,48.72,253.98,499.35
+Pangasinan,Infanta,6.87,21.57,53.98,252.59,448.06
+Pangasinan,Labrador,6.97,21.74,55.86,244.19,411.38
+Pangasinan,Laoac,12.21,26.39,53.87,223.57,306.93
+Pangasinan,Lingayen,9.87,25.07,58.1,246.54,372.85
+Pangasinan,Mabini,5.69,17.42,51.86,249.99,471.42
+Pangasinan,Malasiqui,12.13,29.67,60.61,229.2,298.48
+Pangasinan,Manaoag,12.15,26.11,54.7,229.05,317.4
+Pangasinan,Mangaldan,11.15,24.73,55.44,241.01,347.85
+Pangasinan,Mangatarem,10.97,32.44,63,233.12,331.73
+Pangasinan,Mapandan,12.13,26.78,56.43,233.47,327.01
+Pangasinan,Natividad,14.63,37.27,68.45,199.29,232.93
+Pangasinan,Pozzorubio,12.14,24.37,53.19,224.31,318.93
+Pangasinan,Rosales,11.5,24.71,52.81,207.45,263.8
+Pangasinan,San Carlos City,12.82,33.39,64.12,241.8,331
+Pangasinan,San Fabian,10.33,21.48,49.61,223.48,332.77
+Pangasinan,San Jacinto,11.31,24.31,54.63,233.85,336.7
+Pangasinan,San Manuel,12.42,29.44,58.52,205.92,263.26
+Pangasinan,San Nicolas,13.27,36.49,69.36,200.99,234.56
+Pangasinan,San Quintin,14.58,35.34,65.87,202.38,237.34
+Pangasinan,Santa Barbara,11.85,28.3,58.65,235.71,325.64
+Pangasinan,Santa Maria,13.23,25.89,53.07,208.79,263.7
+Pangasinan,Santo Tomas,11.29,26.25,56.15,215.36,282.4
+Pangasinan,Sison,10.73,26.53,58.83,214.96,302.28
+Pangasinan,Sual,6.15,16.16,50.19,247.1,459.88
+Pangasinan,Tayug,13.9,27.5,53.52,203.74,252.07
+Pangasinan,Umingan,14.07,27.53,54.75,201.32,240.45
+Pangasinan,Urbiztondo,13.41,36.25,66.04,231.98,299.21
+Pangasinan,Urdaneta City,12.05,27.94,55.06,219.12,289.64
+Pangasinan,Villasis,11.59,27.31,55.89,217.27,281.54
+Quezon,Agdangan,67.61,58.8,62.31,111.45,170.21
+Quezon,Alabat,72.81,66,69.11,112.46,175.7
+Quezon,Atimonan,70.88,60.46,66.64,115.24,176.54
+Quezon,Buenavista,63.62,57.02,58.01,123.69,210.69
+Quezon,Burdeos,92.59,100.72,102.77,157.73,223.54
+Quezon,Calauag,80.49,72.87,72.19,117.54,186.48
+Quezon,Candelaria,47.22,45.49,60.69,136.27,203.65
+Quezon,Catanauan,57.38,51.41,51.22,119.41,204.28
+Quezon,Dolores,44.93,44.65,60.31,144.84,212.21
+Quezon,General Luna,63.64,56.92,55.19,117.5,193.26
+Quezon,General Nakar,56.8,68.18,87.81,207.71,297.66
+Quezon,Guinayangan,78.39,70.49,70.15,125.3,203.33
+Quezon,Gumaca,70.02,62.88,62.93,115.98,183.44
+Quezon,Hinunangan,330.56,257.32,194.42,173.89,177.76
+Quezon,Infanta,54.39,60.42,71.41,159.42,248.99
+Quezon,Jomalig,106.76,109.74,103.68,121.42,178.31
+Quezon,Lopez,70.97,62.93,62.44,120.87,197.1
+Quezon,Lucban,62.37,58.17,73.55,157.54,226.14
+Quezon,Lucena City,59.69,50.38,61.04,114.85,181.63
+Quezon,Macalelon,66.72,59.37,57.73,116.4,188.54
+Quezon,Mauban,64.06,57.22,68.69,134.68,204.97
+Quezon,Mulanay,43.54,39.24,43.25,120.82,220.99
+Quezon,Padre Burgos,66.61,57.05,62.76,110.71,169.7
+Quezon,Pagbilao,64.7,54.19,63.68,113.14,176.69
+Quezon,Panukulan,90.88,99.08,104.14,172.42,241.97
+Quezon,Patnanungan,95.68,102.83,100.33,129.92,192.34
+Quezon,Perez,69.68,64.03,68.67,112.24,177.04
+Quezon,Pitogo,68.56,60.26,59.52,114.39,180.12
+Quezon,Plaridel,69.05,61.61,63.79,111.87,175.41
+Quezon,Polillo,81.11,85.97,90.43,142.87,212.49
+Quezon,Quezon,74.38,68.07,69.2,112.91,175.38
+Quezon,Real,55.04,59.5,73.77,173.65,257.85
+Quezon,Sampaloc,62.8,56.13,69.82,142.81,213.22
+Quezon,San Andres,39.84,36.56,44.03,125.78,239.53
+Quezon,San Antonio,36.74,37,53.3,134.23,202.09
+Quezon,San Francisco,35.92,32.25,39.75,121.37,232.43
+Quezon,San Narciso,45.91,41.79,46.54,122.99,225.23
+Quezon,Sariaya,53.49,49.1,62.86,129.13,193.65
+Quezon,Tagkawayan,98.17,87.95,86.56,135.81,210.43
+Quezon,Tayabas City,63.77,54.89,69.6,134.77,200.68
+Quezon,Tiaong,37.5,38.01,53.35,134.74,206.26
+Quezon,Unisan,69.01,60.33,62.13,113.39,175.27
+Quirino,Aglipay,93.93,100.25,119.98,192.05,165.37
+Quirino,Cabarroguis,91.2,92.55,119.11,187,157.46
+Quirino,Diffun,90.14,81.85,111.07,180.54,159.67
+Quirino,Maddela,114.51,134.84,149.58,219.92,193.55
+Quirino,Nagtipunan,81.41,113.82,141.55,224.19,194.65
+Quirino,Saguday,79.68,77.5,98.28,172.72,150.11
+Rizal,Angono,16.99,24.41,37.28,161.61,276.13
+Rizal,Antipolo City,30.21,41.72,59.63,194.31,312.2
+Rizal,Baras,21.48,30.07,42.83,162.74,272
+Rizal,Binangonan,16.67,24.88,36.26,153.6,254.93
+Rizal,Cainta,15.52,20.67,34.2,159.13,286.89
+Rizal,Cardona,18.89,27.54,38.72,155.37,251.44
+Rizal,Jala-Jala,25.33,33.26,44.65,156.26,250.44
+Rizal,Morong,19.1,27.18,39.91,161.92,271.89
+Rizal,Pililla,27.73,36.37,49,163.39,259.92
+Rizal,Rodriguez,35.19,49.42,71.18,210.73,326.38
+Rizal,San Mateo,21.36,30.5,48.59,189.6,330.66
+Rizal,Tanay,35.41,46.09,61.88,184.68,287.73
+Rizal,Taytay,15.08,20.8,33.47,155.15,275.72
+Rizal,Teresa,20.15,28.54,42.57,170.31,286.11
+Romblon,Alcantara,49.48,41.49,64.96,195.99,279.51
+Romblon,Banton,47.29,41.99,57.61,138.77,237.89
+Romblon,Cajidiocan,71.35,67.31,71.7,151.15,239.45
+Romblon,Calatrava,48.88,40.48,62.7,154.3,259.05
+Romblon,Concepcion,51.37,39.84,62.34,157.72,257.51
+Romblon,Corcuera,44.51,38.46,57.3,134.98,237.45
+Romblon,Ferrol,42,31.86,59.84,202.15,283.84
+Romblon,Looc,47.06,36.96,62.42,203.07,283.82
+Romblon,Magdiwang,65.14,60.91,69.37,146.21,241.54
+Romblon,Odiongan,42.99,35.27,61.79,187.26,276.55
+Romblon,Romblon,54.72,49.3,65.76,131.18,236.25
+Romblon,San Agustin,49.95,42.92,64.57,158.71,260.05
+Romblon,San Andres,45.4,38.06,62.27,163.26,263.84
+Romblon,San Fernando,69.06,66.28,73.31,160.25,247.54
+Romblon,San Jose,65.45,47.56,66.23,239.71,316.08
+Romblon,Santa Fe,56.59,43.62,64.92,214.16,289.36
+Romblon,Santa Maria,49.48,42.45,65.65,182.43,274.36
+Samar,Almagro,139.77,108.19,106.74,144.29,206.27
+Samar,Basey,277.67,207.95,177.5,190.4,220.18
+Samar,Calbayog City,207.15,149.11,136.12,172.03,220.92
+Samar,Calbiga,267.76,195.51,175.08,195.94,224.27
+Samar,Catbalogan City,221.92,161.29,151.37,180.38,219.54
+Samar,Daram,190.96,143.07,135.17,159.08,207.81
+Samar,Gandara,221.71,160.01,145.59,183.25,222.28
+Samar,Hinabangan,288.24,211.72,189.01,212.21,227
+Samar,Jiabong,237.98,176.82,160.84,194.48,223.03
+Samar,Marabut,307.14,232.95,193.36,194.64,215.91
+Samar,Matuguinao,267.57,200.54,163.11,200.11,219.49
+Samar,Motiong,246.13,182.06,165.06,197.68,221.33
+Samar,Pagsanghan,201.27,142.05,139.29,173.22,218.97
+Samar,Paranas,272.17,200.28,180.97,206.28,219.8
+Samar,Pinabacdao,263.99,194.02,171.68,191.25,223.26
+Samar,San Jorge,233.98,169.89,155.49,188.06,221.68
+Samar,San Jose de Buan,260.24,196.52,168.42,206.36,220.81
+Samar,San Sebastian,246.37,176.53,162.15,181.11,213.89
+Samar,Santa Margarita,204.03,145.25,140.03,176.44,223.15
+Samar,Santa Rita,237.14,176.38,152.57,165.57,210.14
+Samar,Santo Nino,151.66,116.11,116.08,152.28,209.01
+Samar,Tagapul-An,143.94,114.06,105.86,144.07,196.79
+Samar,Talalora,204.01,152.33,138.05,157.67,205.29
+Samar,Tarangnan,204.76,145.27,141.36,170.79,214.29
+Samar,Villareal,225.89,165.6,148.92,167.47,213.04
+Samar,Zumarraga,206.6,154.18,144.02,167.96,210.91
+Sarangani,Alabel,105.98,91.41,112.57,151.03,145.75
+Sarangani,Glan,114.53,99.06,115.77,151.41,150.09
+Sarangani,Kiamba,99.72,94.58,121.02,171.97,186.89
+Sarangani,Maasim,99.51,90.08,114.51,160.99,166.71
+Sarangani,Maitum,98.75,100.3,129.03,184.01,205.4
+Sarangani,Malapatan,113.75,98.6,118.18,158.7,152.56
+Sarangani,Malungon,108.76,100.42,128.52,188.54,180.6
+Shariff Kabunsuan,Barira,117.19,142.73,169.77,317.64,340.36
+Shariff Kabunsuan,Buldon,115.88,135.41,165.66,313.05,338.53
+Shariff Kabunsuan,Datu Blah T. Sinsuat,112.34,139.25,181.4,293.84,325.08
+Shariff Kabunsuan,Datu Odin Sinsuat,115.35,139.86,171.08,289.77,305.59
+Shariff Kabunsuan,Kabuntalan,117.13,135.89,157.6,257.67,265.63
+Shariff Kabunsuan,Matanog,116.09,147.4,174.69,325.75,347.9
+Shariff Kabunsuan,Northern Kabuntalan,119.27,134.75,154.95,256.31,261.84
+Shariff Kabunsuan,Parang,117.33,149.88,171.21,304.61,317.69
+Shariff Kabunsuan,Sultan Kudarat,119.75,144.39,166.16,285.78,296.61
+Shariff Kabunsuan,Sultan Mastura,118.64,148.65,169.57,296.15,308.33
+Shariff Kabunsuan,Upi,111,135.39,179.06,308.28,332.39
+Siquijor,Enrique Villanueva,70.85,63.63,56.4,91.5,129.19
+Siquijor,Larena,74.67,68.74,59.03,103.19,145.75
+Siquijor,Lazi,71.57,63.38,58.18,98.37,146.16
+Siquijor,Maria,73.17,64.15,57.47,94.61,140.42
+Siquijor,San Juan,66.83,57.63,56.34,93.43,142.54
+Siquijor,Siquijor,73.5,68.76,60.19,109.44,156.98
+Sorsogon,Barcelona,227.88,187.78,144.81,155.48,183.39
+Sorsogon,Bulan,183.76,154.35,120.99,139.79,181.9
+Sorsogon,Bulusan,213.47,176.93,139.19,163.23,198.54
+Sorsogon,Casiguran,226.57,187.59,146.14,155.9,183
+Sorsogon,Castilla,198.54,175.8,142.36,158.36,209.57
+Sorsogon,Donsol,154.34,139.57,117.34,146.28,212.41
+Sorsogon,Gubat,234.85,196.6,152.14,158.33,183.88
+Sorsogon,Irosin,200.01,167.16,131,151.86,191.28
+Sorsogon,Juban,209.28,175.64,137.78,152.79,186.92
+Sorsogon,Magallanes,194.67,166.71,131.53,146.92,185.18
+Sorsogon,Matnog,184.68,152.87,120.21,141.76,184.45
+Sorsogon,Pilar,180.5,159.73,131.6,151.67,213.98
+Sorsogon,Prieto Diaz,240.46,203.38,158.92,164.65,196.04
+Sorsogon,Santa Magdalena,199.3,163.26,127.07,144.78,181.15
+Sorsogon,Sorsogon City,225.68,194.41,156.08,170.25,205.97
+South Cotabato,Banga,85.76,86.22,107.34,168.5,186.92
+South Cotabato,General Santos City,85.9,71.22,91.78,121.55,131.56
+South Cotabato,Koronadal City,85.95,86.21,106.91,172.65,188.66
+South Cotabato,Lake Sebu,111.92,117.87,156.23,247.5,247.92
+South Cotabato,Norala,87.97,94.62,111.73,187.54,215.89
+South Cotabato,Polomolok,94.21,84.53,110.97,165.17,169.65
+South Cotabato,Santo Nino,87.01,92.35,111.89,180.7,205.71
+South Cotabato,Surallah,91.11,93.04,120.3,187.34,198.97
+South Cotabato,Tampakan,106.52,106.35,141.02,228.03,223.29
+South Cotabato,Tantangan,86.76,92.76,108.2,187.67,214.31
+South Cotabato,T'Boli,109.43,107.59,140.45,216.57,213.03
+South Cotabato,Tupi,98.57,95.89,125.83,196.31,197.84
+Southern Leyte,Anahawan,318.63,252.91,181.87,180,196.16
+Southern Leyte,Bontoc,222.55,172.51,127.29,156.01,198.04
+Southern Leyte,Hinunangan,304.71,240.34,177.8,181.95,200.08
+Southern Leyte,Hinundayan,326.08,254.5,186.62,173.32,186.68
+Southern Leyte,Libagon,273.46,218.67,157.74,175.91,202.28
+Southern Leyte,Liloan,294.09,237.64,161.48,163.62,185.75
+Southern Leyte,Limasawa,246.69,206.78,128.56,136.31,159.24
+Southern Leyte,Maasin City,191.03,154.66,101.33,145.12,187.79
+Southern Leyte,Macrohon,210.74,174.54,110.32,142.07,173.92
+Southern Leyte,Malitbog,223.4,183.6,121.68,153.34,188.69
+Southern Leyte,Padre Burgos,228.8,191.22,122.38,147.84,177.5
+Southern Leyte,Pintuyan,321.54,261.47,173.35,162.14,181.9
+Southern Leyte,Saint Bernard,289.67,225.65,162.7,167.35,189.91
+Southern Leyte,San Francisco,293.75,234.88,157.01,155.72,178.77
+Southern Leyte,San Juan,308.82,242.75,173.56,167.74,184.63
+Southern Leyte,San Ricardo,327.53,267.38,178.65,167.42,186.23
+Southern Leyte,Silago,310.98,246.5,188.57,194.31,207.94
+Southern Leyte,Sogod,259.9,207.99,156.08,181.48,211.73
+Southern Leyte,Tomas Oppus,225.27,182.4,127.26,160.59,200.11
+Sultan Kudarat,Bagumbayan,102.63,111.98,148.07,242.7,252.34
+Sultan Kudarat,Buluan Lake,80.51,90.6,99.34,173.13,201.45
+Sultan Kudarat,Columbio,97.29,97.57,130.83,218.07,216.37
+Sultan Kudarat,Esperanza,103.38,115.86,147.32,248.79,269.74
+Sultan Kudarat,Isulan,102.73,115.32,150.26,251.59,265.79
+Sultan Kudarat,Kalamansig,112.59,127.45,172.51,272.53,293.26
+Sultan Kudarat,Lambayong,98.13,107.76,121.98,216.74,246.26
+Sultan Kudarat,Lebak,111.59,129.1,171.81,267.21,294.89
+Sultan Kudarat,Lutayan,83.51,88.15,101.73,173.12,196.16
+Sultan Kudarat,Palimbang,110.57,118.41,157.26,234.6,259.87
+Sultan Kudarat,President Quirino,89.51,97.38,106.11,199.46,233.46
+Sultan Kudarat,Sen. Ninoy Aquino,108.08,118.92,161.19,260.97,266.66
+Sultan Kudarat,Tacurong City,90.46,99.8,111.51,202.34,236.36
+Sulu,Hadji Panglima Tahil,86.42,87.18,136.34,206.79,216.62
+Sulu,Indanan,99.02,97.61,142.13,218.28,230.05
+Sulu,Jolo,101.2,95.13,150.21,230.38,242.82
+Sulu,Kalingalan Caluang,102.73,97.74,137.3,213.29,229.04
+Sulu,Lugus,101.13,102.41,119.58,176.1,202.77
+Sulu,Luuk,100.72,95.46,135.62,214.55,232.25
+Sulu,Maimbung,99.87,97.34,142.85,215.34,226.39
+Sulu,Old Panamao,99.47,95.87,139.59,218.73,233.61
+Sulu,Pandami,104.84,105.26,111.89,162.28,197.37
+Sulu,Panglima Estino,100.18,96.39,140.91,217.86,231.38
+Sulu,Pangutaran,87.73,86.9,121.71,182.87,202.64
+Sulu,Parang,98.41,97.68,138.45,206.15,218.73
+Sulu,Pata,101.69,100.77,135.91,207.1,221.9
+Sulu,Patikul,98.12,96.32,142.87,225.83,237.63
+Sulu,Siasi,106.68,106.07,115.28,168.92,201.98
+Sulu,Talipao,101.2,97.62,142.67,220.12,233.16
+Sulu,Tapul,101.23,102.36,126.03,186.01,207.05
+Sulu,Tongkil,97.86,92.53,124.77,205.33,231
+Surigao del Norte,Alegria,478.82,391.74,260.12,210.17,196.47
+Surigao del Norte,Bacuag,512.59,407.01,272.13,194.02,178.67
+Surigao del Norte,Burgos,557.61,434.45,308.54,208.79,190.8
+Surigao del Norte,Claver,534.87,436.56,295.7,236.67,213.25
+Surigao del Norte,Dapa,609.88,470.31,328.56,220.02,189.27
+Surigao del Norte,Del Carmen,583.5,446.62,314.09,209.54,189.35
+Surigao del Norte,General Luna,611.19,473.44,331.47,221.32,190.08
+Surigao del Norte,Gigaquit,517.48,418.47,281.02,218.7,198.3
+Surigao del Norte,Mainit,447.22,361.01,237.09,184.69,181.66
+Surigao del Norte,Mainit Lake,464.32,372.88,243.95,180.54,167.23
+Surigao del Norte,Malimono,409.96,336.3,219.35,185.16,188.16
+Surigao del Norte,Pilar,590.34,456.88,321.22,216.01,192.25
+Surigao del Norte,Placer,477.61,378.46,253.09,180.73,176.24
+Surigao del Norte,San Benito,568.73,437.74,309.78,209.11,193.43
+Surigao del Norte,San Francisco,400.84,323.06,214.41,172.67,183.92
+Surigao del Norte,San Isidro,575.07,445.35,314.71,212.7,193.17
+Surigao del Norte,Santa Monica,551.6,429.85,305.77,207.17,191.31
+Surigao del Norte,Sison,443.36,350.36,233.88,174.04,180.75
+Surigao del Norte,Socorro,613.92,477.87,329.19,221.46,187.06
+Surigao del Norte,Surigao City,454.52,355.22,243.06,165.42,174.17
+Surigao del Norte,Tagana-An,481.06,377.15,255.97,172.68,171.59
+Surigao del Norte,Tubod,479.86,384.31,255.24,190.41,182.24
+Surigao del Sur,Barobo,477.18,423.82,298.38,253.69,256.06
+Surigao del Sur,Bayabas,605.41,502.2,342.18,256.62,227.53
+Surigao del Sur,Bislig City,459.97,393.16,290.94,243.22,241.8
+Surigao del Sur,Cagwait,580.5,488.89,333.83,267,242.1
+Surigao del Sur,Cantilan,588.38,478.1,323.47,255.86,213.34
+Surigao del Sur,Carmen,560.38,468.16,316.53,263.58,229.42
+Surigao del Sur,Carrascal,577.79,468.56,316.46,249.42,211.1
+Surigao del Sur,Cortes,637.82,518.33,352.46,258.95,212.65
+Surigao del Sur,Hinatuan,510.95,441.29,313.64,252.01,262.12
+Surigao del Sur,Lanuza,590.41,488.9,331.12,264.48,224.7
+Surigao del Sur,Lianga,470.29,422.29,292.07,256.85,249.9
+Surigao del Sur,Lingig,444.05,374.17,278.9,234.19,218.66
+Surigao del Sur,Madrid,580.11,474.48,320.83,259.83,219.09
+Surigao del Sur,Marihatag,522.56,455.54,313.02,269.95,251.63
+Surigao del Sur,San Agustin,506.48,446.33,307.07,266.1,251.73
+Surigao del Sur,San Miguel,524.87,450.76,305.89,261.05,233.92
+Surigao del Sur,Tagbina,478.56,417.59,299.3,253.79,261.78
+Surigao del Sur,Tago,578.32,484.48,329.46,261.44,233.56
+Surigao del Sur,Tandag City,587.61,490.76,331.56,263.05,225.14
+Tarlac,Anao,10.37,24.01,53.18,201.16,260.61
+Tarlac,Bamban,8.92,20.44,51.02,212.72,329.02
+Tarlac,Camiling,12.21,31.16,62.27,217.46,279.23
+Tarlac,Capas,8.57,20.85,52.39,207.42,311.66
+Tarlac,Concepcion,4.89,18.46,49.96,170.72,236.25
+Tarlac,Gerona,10.28,23.31,55.86,194.32,257.7
+Tarlac,La Paz,3.57,17.56,47.79,166.61,223.26
+Tarlac,Mayantoc,9.28,24.6,57.04,227.03,340.83
+Tarlac,Moncada,11.19,26.26,56.56,207.01,263
+Tarlac,Paniqui,11.17,25.77,57.15,203.56,266.78
+Tarlac,Pura,9.15,21.22,51.25,188.13,243.88
+Tarlac,Ramos,10.17,22.69,52.16,194.23,252.2
+Tarlac,San Clemente,10.76,29.16,61.14,227.05,319.95
+Tarlac,San Jose,8.68,21.77,54.13,221.67,342.83
+Tarlac,San Manuel,11.26,25.33,54.43,208.88,270.75
+Tarlac,Santa Ignacia,11.27,26.86,59.9,208.84,276.88
+Tarlac,Tarlac City,8.06,20.2,54.55,176.25,241.31
+Tarlac,Victoria,7.51,19.38,48.9,179.97,234.68
+Tawi-tawi,Bongao,130.3,120.3,126.96,164.08,177.49
+Tawi-tawi,Languyan,121.75,114.95,122.03,164.08,184.66
+Tawi-tawi,Mapun,82.5,93.78,104.28,169.81,188.17
+Tawi-tawi,Panglima Sugala,127.11,117.99,124.86,164.82,182.55
+Tawi-tawi,Sapa-Sapa,123.81,117.12,122.17,160.69,180.62
+Tawi-tawi,Sibutu,139.36,129.31,136.43,170.31,171.28
+Tawi-tawi,Simunul,132.63,124.6,130.74,166.04,175.39
+Tawi-tawi,Sitangkai,140.68,130.54,137.86,170.26,170.88
+Tawi-tawi,South Ubian,111.98,110.56,114.81,157.81,185.6
+Tawi-tawi,Tandubas,121.67,114.29,120.24,162.57,185.58
+Tawi-tawi,Turtle Islands,173.8,128.18,112.85,147.63,182.34
+Zambales,Botolan,7.69,16.61,41.95,248.61,430.12
+Zambales,Cabangan,6.43,13.47,37.03,254.32,466.77
+Zambales,Candelaria,6.54,20.93,50.75,245.73,420.33
+Zambales,Castillejos,6.09,8.98,27.11,243.8,513.46
+Zambales,Iba,7.31,16.56,41.83,263.44,453.59
+Zambales,Masinloc,6.61,18.17,47.43,251.54,433.06
+Zambales,Olongapo City,7.53,11.31,32.32,230.9,457.49
+Zambales,Palauig,6.94,17.47,46,256.68,448.53
+Zambales,San Antonio,5.31,7.71,26.5,246.29,534.49
+Zambales,San Felipe,6.01,10.57,30.64,252.37,486.82
+Zambales,San Marcelino,7.95,13.32,37.59,240.77,453.74
+Zambales,San Narciso,5.46,8.06,25.78,250.89,516.53
+Zambales,Santa Cruz,6.38,20.91,53.53,251.18,442.18
+Zambales,Subic,6.69,10.45,30.54,237.17,484.91
+Zamboanga del Norte,Bacungan,75.68,97.1,126.06,256.47,366.34
+Zamboanga del Norte,Baliguian,54.18,64.74,97.14,204.63,296.33
+Zamboanga del Norte,Dapitan City,93.37,83.01,89.91,152.52,242.03
+Zamboanga del Norte,Dipolog City,95.24,90.41,103.62,181.07,282.07
+Zamboanga del Norte,Godod,70.55,90.24,121.14,247.08,357.07
+Zamboanga del Norte,Gutalac,55.16,65.58,96.63,208.01,309.53
+Zamboanga del Norte,Jose Dalman,76.75,86.34,104.16,221.85,330.45
+Zamboanga del Norte,Kalawit,60.46,71.92,102.07,212.35,316.55
+Zamboanga del Norte,Katipunan,92.97,92.88,108,201.44,307.35
+Zamboanga del Norte,La Libertad,106.96,100.67,101.27,171.21,266.99
+Zamboanga del Norte,Labason,57.22,70.22,98.94,213.74,321.36
+Zamboanga del Norte,Liloy,62,76.86,102.8,221.49,332.8
+Zamboanga del Norte,Manukan,78.72,85.43,102.23,214.31,324.67
+Zamboanga del Norte,Mutia,103.36,107.11,112.59,203.13,303.49
+Zamboanga del Norte,Pinan,102.89,101.22,109.12,188.55,290.41
+Zamboanga del Norte,Polanco,96.37,87.59,99.01,166.45,263.77
+Zamboanga del Norte,Pres. Manuel A. Roxas,86.31,87.86,103.92,207.04,314.22
+Zamboanga del Norte,Rizal,102.93,90.6,90.69,150.42,238.42
+Zamboanga del Norte,Salug,68.23,86.81,112.55,237.33,346.7
+Zamboanga del Norte,Sergio Osmena Sr.,95.95,108.43,124.15,232.07,337.88
+Zamboanga del Norte,Siayan,83.02,101.75,126.88,247.57,360.66
+Zamboanga del Norte,Sibuco,59.33,61.41,92.82,180.13,241.35
+Zamboanga del Norte,Sibutad,96.46,85.12,88.69,151.4,239.07
+Zamboanga del Norte,Sindangan,80.54,96.45,116.09,241.61,348.4
+Zamboanga del Norte,Siocon,53.11,59.85,91.13,182.35,270.26
+Zamboanga del Norte,Sirawai,55.12,60.11,91.56,177.9,257.67
+Zamboanga del Norte,Tampilisan,64.81,80.25,109.83,229.19,338.07
+Zamboanga del Sur,Aurora,98.97,131.4,158.4,250.42,379.15
+Zamboanga del Sur,Bayog,75.41,101.47,137.25,253.52,373.25
+Zamboanga del Sur,Dimataling,84.69,119.68,168.85,274.73,390.07
+Zamboanga del Sur,Dinas,82.91,119.33,169.71,273.13,401.52
+Zamboanga del Sur,Dumalinao,82.53,119.68,169.3,272.08,410.76
+Zamboanga del Sur,Dumingag,89.86,108.37,132.93,236.29,356.94
+Zamboanga del Sur,Guipos,82.14,117.02,166.62,273.82,409.55
+Zamboanga del Sur,Josefina,106.29,119.71,133.58,231.62,344.71
+Zamboanga del Sur,Kumalarang,76.2,106.7,150,255.15,382.49
+Zamboanga del Sur,Labangan,83.38,117.51,162.19,252.85,399.13
+Zamboanga del Sur,Lakewood,79.9,108.61,146.98,266.3,386.14
+Zamboanga del Sur,Lakewood Lake,77.1,109.34,150.95,263.54,389.3
+Zamboanga del Sur,Lapuyan,79.52,111.65,158.82,266.8,389.89
+Zamboanga del Sur,Mahayag,97.11,115.62,136.11,219.25,348.15
+Zamboanga del Sur,Margosatubig,79.75,112.02,160.25,269.36,383.75
+Zamboanga del Sur,Midsalip,87.2,111.34,142.9,264.36,380.34
+Zamboanga del Sur,Molave,100.19,119.81,137.23,218.46,348.44
+Zamboanga del Sur,Pagadian City,83.5,116.21,160.02,267.93,404.1
+Zamboanga del Sur,Pitogo,84.27,120.88,169.26,272.17,380.48
+Zamboanga del Sur,Ramon Magsaysay,90.94,120.29,152.97,243.61,384.21
+Zamboanga del Sur,San Miguel,82.68,115.87,164.39,277.56,404.04
+Zamboanga del Sur,San Pablo,84.59,124.24,174.35,279.83,410.34
+Zamboanga del Sur,Sominot,90.68,116.16,148.61,250.01,382.08
+Zamboanga del Sur,Tabina,87.99,126.79,174.7,284.07,384.68
+Zamboanga del Sur,Tambulig,102.15,126.87,142.94,220.36,353.76
+Zamboanga del Sur,Tigbao,82.16,114.01,155.09,273.94,397.15
+Zamboanga del Sur,Tukuran,92.89,127.14,164.43,254.46,392.25
+Zamboanga del Sur,Vincenzo A. Sagun,79.59,110.44,157.79,258.54,369.12
+Zamboanga del Sur,Zamboanga City,64.79,63.4,94.3,177.96,235.72
+Zamboanga Sibugay,Alicia,73.09,94.62,134.84,231.4,335.64
+Zamboanga Sibugay,Buug,75.51,103.17,144.58,255.52,376.99
+Zamboanga Sibugay,Diplahan,72.49,97.04,134.91,241.02,362.16
+Zamboanga Sibugay,Imelda,73.5,97.08,137.6,244.41,358.26
+Zamboanga Sibugay,Ipil,62.5,74.28,105.45,205.76,306.35
+Zamboanga Sibugay,Kabasalan,70.12,90.25,123.63,240.58,350.65
+Zamboanga Sibugay,Mabuhay,73.65,93.43,133.57,225.74,321.31
+Zamboanga Sibugay,Malangas,74.04,100.31,142.2,246.02,360.02
+Zamboanga Sibugay,Naga,65.73,82.17,113.06,222.18,329.14
+Zamboanga Sibugay,Olutanga,74.02,88.96,127.69,216.34,307.96
+Zamboanga Sibugay,Payao,69.91,89.99,127.8,225.58,332.02
+Zamboanga Sibugay,Roseller Lim,60.09,70.18,102.86,206.19,297.98
+Zamboanga Sibugay,Siay,69.57,91.57,127.41,231.77,345.89
+Zamboanga Sibugay,Talusan,74.13,90.63,130.06,221.15,314.39
+Zamboanga Sibugay,Titay,63.13,75.7,106.69,216.35,320.55
+Zamboanga Sibugay,Tungawan,59.54,65.99,98.22,189.76,275.3
